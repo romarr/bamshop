@@ -1,0 +1,63 @@
+---
+layout: default
+title: Vêtements
+pos: 3
+---
+<div class="col-3">
+  <h5>Affiner</h5>
+  {% assign couleurs = site.vetements | map: 'couleur' | uniq %}
+  <p class="mb-0 mt-3">Couleurs</p>
+  {% for item in couleurs %}
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+  </div>
+  {% endfor %}
+  {% assign matieres = site.vetements | map: 'matiere' | uniq %}
+  <p class="mb-0 mt-3">Matières</p>
+  {% for item in matieres %}
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+  </div>
+  {% endfor %}
+  {% assign motifs = site.vetements | map: 'motif' | uniq %}
+  <p class="mb-0 mt-3">Motifs</p>
+  {% for item in motifs %}
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+  </div>
+  {% endfor %}
+  {% assign manches = site.vetements | map: 'manches' | uniq %}
+  <p class="mb-0 mt-3">Manches</p>
+  {% for item in manches %}
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+  </div>
+  {% endfor %}
+</div>
+<div class="col">
+  <h5>Produits</h5>
+  <div class="row">
+    {%- for item in site.vetements -%}
+    <div class="col filter-item all-selected 
+    {{item.couleur | join: ' '}} 
+    {{item.matiere | join: ' '}}
+    {{item.motif | join: ' '}}
+    {{item.manches | join: ' '}}
+    ">
+      <div class="card">
+        <img class="card-img-top img-fluid" src="http://placehold.it/300x400" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">{{ item.name }}</h5>
+          <p class="card-text"><span>Couleur: </span>{{ item.couleur | join: ' / ' }} - Matière: {{item.matiere | join:
+            ' / '}}</p>
+          <a href="#" class="btn btn-primary">Ajouter</a>
+        </div>
+      </div>
+    </div>
+    {%- endfor -%}
+  </div>
+</div>

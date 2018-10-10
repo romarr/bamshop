@@ -1,0 +1,35 @@
+---
+---
+
+@import 'bootstrap/bootstrap';
+@import 'fontawesome/fontawesome';
+@import "fontawesome/solid";
+@import "fontawesome/brands";
+@import "fontawesome/regular";
+
+.filter-item { display: none; }
+// .filtered .filter-item.selected { display:block } /* selected class applied via js */
+
+.selected { 
+  display: block;
+}
+.all-selected { 
+  display: block;
+} 
+/* selected class applied via js */
+
+
+
+#header-top {
+  background: $black;
+  color: $white;
+}
+
+#header-bottom {
+  background: url(http://placehold.it/1024x200) no-repeat center center;
+  height: 200px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

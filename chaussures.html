@@ -1,0 +1,45 @@
+---
+layout: default
+title: Chaussures
+pos: 5
+---
+<div class="col-3">
+  <h5>Affiner</h5>
+  {% assign couleurs = site.chaussures | map: 'couleur' | uniq %}
+  <p class="mb-0 mt-3">Couleurs</p>
+  {% for item in couleurs %}
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+  </div>
+  {% endfor %}
+  {% assign matieres = site.chaussures | map: 'matiere' | uniq %}
+  <p class="mb-0 mt-3">Matières</p>
+  {% for item in matieres %}
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+  </div>
+  {% endfor %}
+</div>
+<div class="col">
+  <h5>Produits</h5>
+  <div class="row">
+    {%- for item in site.chaussures -%}
+    <div class="col filter-item all-selected 
+    {{item.couleur | join: ' '}} 
+    {{item.matiere | join: ' '}}
+    ">
+      <div class="card">
+        <img class="card-img-top img-fluid" src="http://placehold.it/300x400" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">{{ item.name }}</h5>
+          <p class="card-text"><span>Couleur: </span>{{ item.couleur | join: ' / ' }} - Matière: {{item.matiere | join:
+            ' / '}}</p>
+          <a href="#" class="btn btn-primary">Ajouter</a>
+        </div>
+      </div>
+    </div>
+    {%- endfor -%}
+  </div>
+</div>
