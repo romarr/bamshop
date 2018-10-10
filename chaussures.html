@@ -3,7 +3,7 @@ layout: default
 title: Chaussures
 pos: 5
 ---
-<div class="col-3">
+<div class="col-xs-12 col-sm-2 collapse d-md-block" id="asideCol">
   <h5>Affiner</h5>
   {% assign couleurs = site.chaussures | map: 'couleur' | uniq %}
   <p class="mb-0 mt-3">Couleurs</p>
@@ -23,10 +23,13 @@ pos: 5
   {% endfor %}
 </div>
 <div class="col">
+    <button class="btn btn-info btn-block d-sm-block d-md-none" type="button" data-toggle="collapse" aria-expanded="true" data-target="#asideCol" aria-expanded="false" aria-controls="asideCol">
+      <i class="fas fa-bars"></i> Affiner
+    </button>
   <h5>Produits</h5>
   <div class="row">
     {%- for item in site.chaussures -%}
-    <div class="col filter-item all-selected 
+    <div class="col-sm-12 col-md-6 col-lg-4 filter-item all-selected 
     {{item.couleur | join: ' '}} 
     {{item.matiere | join: ' '}}
     ">
