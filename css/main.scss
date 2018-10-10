@@ -7,6 +7,13 @@
 @import "fontawesome/brands";
 @import "fontawesome/regular";
 
+.page-content {
+  background-image: url(/fringues/img/light-grey-terrazzo.png);
+}
+
+#main-container {
+  background-color: $white;
+}
 .filter-item { display: none; }
 // .filtered .filter-item.selected { display:block } /* selected class applied via js */
 
