@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chaussures
+place: menu
 pos: 5
 ---
 <div class="col-xs-12 col-sm-2 collapse d-md-block" id="asideCol">
@@ -39,10 +40,19 @@ pos: 5
           <h5 class="card-title">{{ item.name }}</h5>
           <p class="card-text"><span>Couleur: </span>{{ item.couleur | join: ' / ' }} - Matière: {{item.matiere | join:
             ' / '}}</p>
-          <a href="#" class="btn btn-primary">Ajouter</a>
+          <button class="btn btn-primary snipcart-add-item"
+          data-item-id="{{item.id}}"
+          data-item-name="{{item.name}}"
+          data-item-price="{{item.price}}"
+          data-item-url="{{page.url}}"
+          data-item-description="{{item.desc}}">Ajouter</button>
         </div>
       </div>
     </div>
     {%- endfor -%}
+  </div>
+  <div class="snipcart-summary">
+      Number of items: <span class="snipcart-total-items"></span>
+      Total price: <span class="snipcart-total-price"></span>
   </div>
 </div>

@@ -2,13 +2,49 @@
     <script src="{{"/js/jquery.min.js" | prepend: site.baseurl}}"></script>
     <script src="{{"/js/bootstrap.min.js" | prepend: site.baseurl}}"></script>
     <script src="{{"/js/custom.js" | prepend: site.baseurl}}"></script>
+    <script type="text/javascript" src="https://cdn.snipcart.com/scripts/snipcart.js" id="snipcart" data-api-key="MjMxMzYzMjYtYjc3Ni00NmQ2LTljZTktODM4NzJmNzIwOGFm"></script>
+
+    <link type="text/css" href="https://cdn.snipcart.com/themes/base/snipcart.min.css" rel="stylesheet" />
 
     <div id="page-footer">
         <div class="container">
-            <div class="row text-center">
-                <div class="col">a</div>
-                <div class="col">b</div>
-                <div class="col">c</div>
+            <div class="row text-center pt-4">
+                <div class="col">
+                    <h6>Commandes</h6>
+                    <ul class="nav flex-column">
+                        {%- for p in site.pages -%}
+                        {%- if p.place == "commandes" -%}
+                        <li class="nav-item w-100">
+                            <a class="nav-link active text-secondary" href="#">{{p.title}}</a>
+                        </li>
+                        {%- endif -%}
+                        {%- endfor -%}
+                    </ul>
+                </div>
+                <div class="col">
+                    <h6>Services</h6>
+                    <ul class="nav flex-column">
+                        {%- for p in site.pages -%}
+                        {%- if p.place == "services" -%}
+                        <li class="nav-item w-100">
+                            <a class="nav-link active text-secondary" href="#">{{p.title}}</a>
+                        </li>
+                        {%- endif -%}
+                        {%- endfor -%}
+                    </ul>
+                </div>
+                <div class="col">
+                    <h6>Conditions</h6>
+                    <ul class="nav flex-column">
+                        {%- for p in site.pages -%}
+                        {%- if p.place == "conditions" -%}
+                        <li class="nav-item w-100">
+                            <a class="nav-link active text-secondary" href="#">{{p.title}}</a>
+                        </li>
+                        {%- endif -%}
+                        {%- endfor -%}
+                    </ul>
+                </div>
             </div>
         </div>
     </div>
