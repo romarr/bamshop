@@ -9,8 +9,8 @@ media_folder: "img/uploads" # Media files will be stored in the repo under image
 
 
 collections:
-  - name: "Chaussures"
-    label: "chaussures"
+  - name: "chaussures"
+    label: "Chaussures"
     folder: "produits/_chaussures"
     create: true
     slug: "{{slug}}"
@@ -19,6 +19,40 @@ collections:
       - {label: "Id", name: "id", widget: "string"}
       - {label: "Prix", name: "price", widget: "number"}
       - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Marque", name: "marque", widget: "string"}
       - {label: "Matières", name: "matiere", widget: "list"}
       - {label: "Couleur", name: "couleur", widget: "list"}
+      - {label: "Taille", name: "taille", widget: "list"}
+      - {label: "Texte", name: "body", widget: "markdown"}
+
+  - name: "vetements"
+    label: "Vêtements"
+    folder: "produits/_vetements"
+    create: true
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Id", name: "id", widget: "string"}
+      - {label: "Prix", name: "price", widget: "number"}
+      - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Marque", name: "marque", widget: "string"}
+      - {label: "Couleur", name: "couleur", widget: "list"}
+      - {label: "Taille", name: "taille", widget: "list"}
+      - {label: "Manches", name: "manche", widget: "string"}
+      - {label: "Sexe", name: "sexe", widget: "select", options: ["Femme", "Homme"]}
+      - {label: "Texte", name: "body", widget: "markdown"}
+
+  - name: "accessoires"
+    label: "Accessoires"
+    folder: "produits/_accessoires"
+    create: true
+    slug: "{{slug}}"
+    fields: # The fields for each document, usually in front matter
+      - {label: "Nom", name: "title", widget: "string"}
+      - {label: "Id", name: "id", widget: "string"}
+      - {label: "Prix", name: "price", widget: "number"}
+      - {label: "Description", name: "desc", widget: "string"}
+      - {label: "Marque", name: "marque", widget: "string"}
+      - {label: "Couleur", name: "couleur", widget: "list"}
+      - {label: "Type", name: "type", widget: "string"}
       - {label: "Texte", name: "body", widget: "markdown"}
