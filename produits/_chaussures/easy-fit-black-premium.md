@@ -1,5 +1,5 @@
 ---
-title: Easy fit black premium ++
+title: Easy fit black
 id: '0201'
 price: '49.90'
 desc: Des bonnes godasses
