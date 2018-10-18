@@ -4,9 +4,54 @@ title: Accueil
 place: menu
 pos: 0
 ---
+<div class="col-12">
+        <div id="homeScroller" class="carousel slide carousel-fade" data-ride="carousel">
+                <div class="carousel-inner">
+                {% for item in site.data.scroller %}
+                {% if forloop.first %}
+                <div class="carousel-item active">
+                {% else %}
+                <div class="carousel-item">
+                {% endif %}
+                <img class="d-block w-100" src="{{site.baseurl}}/img/{{item.image}}" alt="First slide">
+                <div class="carousel-caption d-none d-md-block">
+                <h5>{{ item.titre }}</h5>
+                <p>{{ item.alt }}</p>
+                </div>
+                </div>
+                {% endfor %}
+                <a class="carousel-control-prev" href="#homeScroller" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#homeScroller" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+</div>
 
-<div class="snipcart-summary">
-    <a href="#" class="snipcart-user-profile">
-        <span class="snipcart-user-email">Login</span>
-      </a>
+<div class="col-12 pt-4">
+        <div class="row">
+        {% for collection in site.collections %}
+        {% assign name = collection.label %}
+        {% for item in site[name] %}
+        <div class="col-sm-12 col-md-6 col-lg-3">
+          <div class="card text-center">
+            <img class="card-img-top img-fluid" src="http://placehold.it/300x400" alt="Card image cap">
+            <div class="card-img-overlay">
+                <h6 class="card-title"><strong>{{ item.marque }}</strong></h6>
+                <p class="card-text">{{ item.title }} - {{item.price}}€</p>
+                <button class="btn btn-primary snipcart-add-item"
+                data-item-id="{{item.id}}"
+                data-item-name="{{item.name}}"
+                data-item-price="{{item.price}}"
+                data-item-url="{{page.url}}"
+                data-item-description="{{item.desc}}">Ajouter</button>
+              </div>
+          </div>
+        </div>
+        {% endfor %}
+        {% endfor %}
+        </div>
 </div>

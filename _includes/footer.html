@@ -9,37 +9,29 @@
     <div id="page-footer">
         <div class="container">
             <div class="row text-center pt-4">
-                <div class="col">
-                    <h6>Commandes</h6>
-                    <ul class="nav flex-column">
-                        {%- for p in site.pages -%}
-                        {%- if p.place == "commandes" -%}
-                        <li class="nav-item w-100">
-                            <a class="nav-link active text-secondary" href="#">{{p.title}}</a>
-                        </li>
-                        {%- endif -%}
-                        {%- endfor -%}
-                    </ul>
-                </div>
-                <div class="col">
+                <div class="col-3">
                     <h6>Services</h6>
                     <ul class="nav flex-column">
                         {%- for p in site.pages -%}
                         {%- if p.place == "services" -%}
                         <li class="nav-item w-100">
-                            <a class="nav-link active text-secondary" href="#">{{p.title}}</a>
+                            <a class="nav-link active text-secondary" href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a>
                         </li>
                         {%- endif -%}
                         {%- endfor -%}
                     </ul>
                 </div>
                 <div class="col">
+                    <h6>BamShop</h6>
+                    <p>{{site.description}}</p>
+                </div>
+                <div class="col-3">
                     <h6>Conditions</h6>
                     <ul class="nav flex-column">
                         {%- for p in site.pages -%}
                         {%- if p.place == "conditions" -%}
                         <li class="nav-item w-100">
-                            <a class="nav-link active text-secondary" href="#">{{p.title}}</a>
+                            <a class="nav-link active text-secondary" href="{{p.url | prepend: site.baseurl}}">{{p.title}}</a>
                         </li>
                         {%- endif -%}
                         {%- endfor -%}

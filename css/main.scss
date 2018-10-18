@@ -38,7 +38,7 @@
 }
 
 #header-bottom {
-  background: url(http://placehold.it/1024x200) no-repeat center center;
+  background: url({{site.baseurl}}/img/banner.jpg) no-repeat center center;
   height: 200px;
   -webkit-background-size: cover;
   -moz-background-size: cover;
