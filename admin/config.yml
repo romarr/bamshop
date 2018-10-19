@@ -23,6 +23,7 @@ collections:
       - {label: "Matières", name: "matiere", widget: "list"}
       - {label: "Couleur", name: "couleur", widget: "list"}
       - {label: "Taille", name: "taille", widget: "list"}
+      - {label: "Photo", name: "image", widget: "image"}
       - {label: "Texte", name: "body", widget: "markdown"}
 
   - name: "vetements"

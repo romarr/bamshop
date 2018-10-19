@@ -35,7 +35,7 @@ pos: 5
     {{item.matiere | join: ' '}}
     ">
       <div class="card">
-        <img class="card-img-top img-fluid" src="http://placehold.it/300x400" alt="Card image cap">
+        <img class="card-img-top img-fluid" src="{{site.baseurl}}/img/{{item.image}}" alt="Card image cap">
         <div class="card-body">
           <h6 class="card-title">{{ item.title }}</h6>
           <p class="card-text py-0 my-0"><strong>{{ item.marque }}</strong> - <em>{{item.couleur | join: ', '}} - {{item.matiere | join: ', '}}</em></p>
