@@ -1,0 +1,42 @@
+# in the templates via {{ site.myvariable }}.
+title: BamShop
+subtitle: Plein de fringues
+email: admin@bamshop.fr
+description: >- # this means to ignore newlines until "baseurl:"
+  Le site de fringues
+baseurl: "/fringues" # the subpath of your site, e.g. /blog
+url: "http://romarr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+encoding: "utf-8"
+timezone: Europe/Paris
+
+# Gems et extensions
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-paginate
+exclude:
+- Dockerfile
+- Dockerfile.dev
+- nginx.conf
+
+collections_dir: produits
+
+collections:
+  - vetements
+  - chaussures
+  - accessoires
+
+sass:
+  sass_dir: css
+  style: compressed
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

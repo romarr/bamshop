@@ -1,0 +1,11 @@
+- titre: BamShop
+  image: fringues.jpg
+  alt: "Boutique"
+
+- titre: Livraison express
+  image: livraison.jpg
+  alt: "Livraison dans la journée"
+  
+- titre: nouveautés
+  image: nouveau.jpg
+  alt: "Nouveaux produits"

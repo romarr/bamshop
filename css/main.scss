@@ -1,0 +1,47 @@
+---
+---
+
+@import 'bootstrap/bootstrap';
+@import 'fontawesome/fontawesome';
+@import "fontawesome/solid";
+@import "fontawesome/brands";
+@import "fontawesome/regular";
+
+.page-content {
+  background-image: url(/fringues/img/light-grey-terrazzo.png);
+}
+
+#page-footer {
+  background-image: url(/fringues/img/cloth_alike.png);
+}
+
+#main-container {
+  background-color: $white;
+}
+
+.filter-item { display: none; }
+// .filtered .filter-item.selected { display:block } /* selected class applied via js */
+
+.selected { 
+  display: block;
+}
+.all-selected { 
+  display: block;
+} 
+/* selected class applied via js */
+
+
+
+#header-top {
+  background: $black;
+  color: $white;
+}
+
+#header-bottom {
+  background: url({{site.baseurl}}/img/banner.jpg) no-repeat center center;
+  height: 200px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
