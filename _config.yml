@@ -8,6 +8,8 @@ baseurl: "/bamshop" # the subpath of your site, e.g. /blog
 url: "https://romarr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: "utf-8"
 timezone: Europe/Paris
+fb-url: https://www.facebook.com/bamshop06/
+ig-url: https://www.facebook.com/bamshop06/
 
 # Gems et extensions
 plugins:

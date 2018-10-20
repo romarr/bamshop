@@ -8,11 +8,11 @@
 @import "fontawesome/regular";
 
 .page-content {
-  background-image: url(/fringues/img/light-grey-terrazzo.png);
+  background-image: url({{site.baseurl}}/img/light-grey-terrazzo.png);
 }
 
 #page-footer {
-  background-image: url(/fringues/img/cloth_alike.png);
+  background-image: url({{site.baseurl}}/img/cloth_alike.png);
 }
 
 #main-container {
