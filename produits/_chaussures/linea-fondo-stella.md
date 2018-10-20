@@ -6,7 +6,7 @@ desc: Basket tendance au style rétro
 marque: Versace Jeans
 matiere:
   - Cuir
-  - synthetique
+  - Synthétique
 couleur:
   - Noir
 taille:
