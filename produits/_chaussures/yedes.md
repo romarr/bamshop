@@ -9,8 +9,8 @@ marque: Redskins
 matiere:
   - Cuir
 couleur:
-  - cognac
-  - marine
+  - Cognac
+  - Marine
 taille:
   - '42'
 image: /img/uploads/yedes.jpg

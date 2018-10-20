@@ -5,8 +5,8 @@ price: '129.90'
 desc: Basket pailletée en cuir véritable
 marque: Versace Jeans
 matiere:
-  - textite
-  - cuir
+  - Textile
+  - Cuir
 couleur:
   - Noir
 taille:

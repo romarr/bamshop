@@ -6,7 +6,7 @@ desc: Les sneakers VERAC conjuguent confort et style grâce à ses détails vern
 marque: Redskins
 matiere:
   - Synthétique
-  - toile
+  - Textile
 couleur:
   - Noir
 taille:

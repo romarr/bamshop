@@ -3,7 +3,7 @@ title: Sacoche
 id: '301'
 price: '84.90'
 desc: Sacoche bandoulière homme
-marque: Versace Jean's
+marque: Versace Jeans
 couleur:
   - Noir
 type: Sacoche

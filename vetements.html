@@ -6,6 +6,14 @@ pos: 3
 ---
 <div class="col-xs-12 col-sm-2 collapse d-md-block" id="asideCol">
   <h5>Affiner</h5>
+  {% assign marques = site.vetements | map: 'marque' | uniq %}
+  <p class="mb-0 mt-3">Marques</p>
+  {% for item in marques %}
+  <div class="custom-control custom-checkbox">
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+  </div>
+  {% endfor %}
   {% assign couleurs = site.vetements | map: 'couleur' | uniq %}
   <p class="mb-0 mt-3">Couleurs</p>
   {% for item in couleurs %}
@@ -14,23 +22,7 @@ pos: 3
     <label class="custom-control-label" for="{{item}}">{{item}}</label>
   </div>
   {% endfor %}
-  {% assign matieres = site.vetements | map: 'matiere' | uniq %}
-  <p class="mb-0 mt-3">Matières</p>
-  {% for item in matieres %}
-  <div class="custom-control custom-checkbox">
-    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
-    <label class="custom-control-label" for="{{item}}">{{item}}</label>
-  </div>
-  {% endfor %}
-  {% assign motifs = site.vetements | map: 'motif' | uniq %}
-  <p class="mb-0 mt-3">Motifs</p>
-  {% for item in motifs %}
-  <div class="custom-control custom-checkbox">
-    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
-    <label class="custom-control-label" for="{{item}}">{{item}}</label>
-  </div>
-  {% endfor %}
-  {% assign manches = site.vetements | map: 'manches' | uniq %}
+  {% assign manches = site.vetements | map: 'manche' | uniq %}
   <p class="mb-0 mt-3">Manches</p>
   {% for item in manches %}
   <div class="custom-control custom-checkbox">
@@ -60,7 +52,7 @@ pos: 3
             data-item-id="{{item.id}}"
             data-item-name="{{item.name}}"
             data-item-price="{{item.price}}"
-            data-item-url="{{page.url}}"
+            data-item-url="{{site.url}}{{site.baseurl}}{{page.url}}"
             data-item-description="{{item.desc}}">Ajouter</button></p>
           </div>
         </div>

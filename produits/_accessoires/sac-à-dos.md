@@ -1,5 +1,5 @@
 ---
-title: 'Sac à dos '
+title: 'Sac à dos'
 id: '203'
 price: '44.90'
 desc: >-

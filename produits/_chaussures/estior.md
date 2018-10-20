@@ -8,7 +8,7 @@ desc: >-
 marque: Redskins
 matiere:
   - Synthétique
-  - toile
+  - Textile
 couleur:
   - Noir
 taille:

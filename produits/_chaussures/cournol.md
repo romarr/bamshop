@@ -8,10 +8,10 @@ desc: >-
 marque: Redskins
 matiere:
   - Cuir
-  - toile
+  - Textile
 couleur:
   - Cognac
-  - marine
+  - Marine
 taille:
   - '40'
 image: /img/uploads/chaussures-cournol-marron-homme-redskins.jpg

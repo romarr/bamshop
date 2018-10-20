@@ -1,5 +1,5 @@
 ---
-title: galactic bi-matière
+title: Galactic bi-matière
 id: '205'
 price: '34.90'
 desc: Sacoche redskins galactic bi-matière imprimée camouflage et noir
