@@ -49,10 +49,10 @@ pos: 8
             <p class="card-text py-0 my-0"><strong>{{ item.marque }}</strong> - <em>{{item.type}} - {{item.couleur | join: ', '}}</em></p>
             <p class="card-text"><small>{{ item.desc }}</small></p>
             <p>{{item.price}}€<button class="btn btn-primary snipcart-add-item float-right"
-            data-item-id="{{item.id}}"
-            data-item-name="{{item.name}}"
+            data-item-id="{{item.sku}}"
+            data-item-name="{{item.title}}"
             data-item-price="{{item.price}}"
-            data-item-url="{{site.url}}{{site.baseurl}}{{page.url}}"
+            data-item-url="{{site.baseurl}}{{page.url}}"
             data-item-description="{{item.desc}}">Ajouter</button></p>
           </div>
         </div>
