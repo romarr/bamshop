@@ -1,32 +1,44 @@
 ---
-title: Sac à dos
-id: '302'
-price: '114.90'
-desc: 'Sac à dos '
-marque: Versace Jeans
+title: 'Sac à dos '
+id: '203'
+price: '44.90'
+desc: >-
+  Aussi pratique qu'esthétique, le sac à dos reste une valeur sûre pour
+  transporter nos affaire
+marque: Redskins
 couleur:
   - Noir
 type: Sac à dos
-image: /img/uploads/1vj52n003-q11-12-1-.jpg
+image: /img/uploads/7920079_500_a.jpg
 ---
-MATIÈRE ET ENTRETIEN
+En sortie ou en voyage, il sera votre meilleur compagnon pour transporter vos affaires avec style.
 
+Spécificités extérieures : 
 
+   Dos rembourré ou matelassé
 
-Matière: Textile, imitation cuir
+   Compatible A4
 
+   Fond du sac renforcé
 
+Poignées : 
 
-Doublure: Textile, imitation cuir
+   Bretelles cartables / sac à dos réglables et rembourrées
 
+Poches intérieures : 
 
+   Compartiments ordinateur rembourré : 1
 
-DÉTAILS DU PRODUIT
+   Nombre compartiments : 1
 
+Poches extérieures : 
 
+   Poches extérieures avec fermeture : 2
 
-Fermeture: Fermeture éclair
+Fermeture : 
 
+   Fermeture zippée
 
+Accessoires : 
 
-Compartiments: Intérieur spacieux, Compartiment pour PC portable
+   Sangle maintien pour ordinateur
