@@ -1,6 +1,6 @@
 ---
 title: Verac
-id: '207'
+sku: '207'
 price: '74.90'
 desc: Les sneakers VERAC conjuguent confort et style grâce à ses détails vernis.
 marque: Redskins

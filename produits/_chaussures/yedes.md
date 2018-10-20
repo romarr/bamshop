@@ -1,6 +1,6 @@
 ---
 title: YEDES
-id: '208'
+sku: '208'
 price: '95.90'
 desc: >-
   Du caractère et un look qui la rend unique : voici comment se définit cette

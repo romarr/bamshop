@@ -1,6 +1,6 @@
 ---
 title: Trousse de toilette
-id: '206'
+sku: '206'
 price: '70.90'
 desc: Trousse de toilette
 marque: Versace Jeans

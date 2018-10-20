@@ -1,6 +1,6 @@
 ---
 title: Sacoche
-id: '301'
+sku: '301'
 price: '84.90'
 desc: Sacoche bandoulière homme
 marque: Versace Jeans

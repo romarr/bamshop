@@ -1,6 +1,6 @@
 ---
 title: 'Sac à dos'
-id: '203'
+sku: '203'
 price: '44.90'
 desc: >-
   Aussi pratique qu'esthétique, le sac à dos reste une valeur sûre pour

@@ -1,6 +1,6 @@
 ---
 title: LINEA HIGH RUNNING DORE
-id: '206'
+sku: '206'
 price: '129.90'
 desc: Baskets compensées
 marque: Versace Jeans

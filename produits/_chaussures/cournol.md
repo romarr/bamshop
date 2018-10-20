@@ -1,6 +1,6 @@
 ---
 title: Cournol
-id: '102'
+sku: '102'
 price: '79.90'
 desc: >-
   La tige bicolore COURNOL est la pièce essentielle du vestiaire masculin de

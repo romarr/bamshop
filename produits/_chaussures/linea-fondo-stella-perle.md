@@ -1,6 +1,6 @@
 ---
 title: LINEA FONDO STELLA PERLE
-id: '204'
+sku: '204'
 price: '110'
 desc: Basket tendance au style rétro
 marque: Versace Jeans

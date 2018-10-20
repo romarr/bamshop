@@ -1,6 +1,6 @@
 ---
 title: Estior
-id: '101'
+sku: '101'
 price: '89.90'
 desc: >-
   Les baskets ESTIOR urbaines et tendance en similicuir sont les incontournables

@@ -1,6 +1,6 @@
 ---
 title: LINEA CASSETTA
-id: '206'
+sku: '206'
 price: '119.90'
 desc: Basket tendance au style rétro
 marque: Versace Jeans

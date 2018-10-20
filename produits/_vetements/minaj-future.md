@@ -1,6 +1,6 @@
 ---
 title: Minaj Future
-id: '201'
+sku: '201'
 price: '189.90'
 desc: Doudoune femme fourrure
 marque: Redskins
