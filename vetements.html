@@ -52,12 +52,13 @@ pos: 3
             <p class="card-text py-0 my-0"><strong>{{ item.marque }}</strong> - {{item.sexe}}</p>
             <p class="card-text py-0 my-0"><small>{{item.couleur | join: ', '}} - Manches {{item.manche | downcase}}</small></p>
             <p class="card-text"><small>{{ item.desc }}</small></p>
-            <p>{{item.price}}€<button class="btn btn-primary snipcart-add-item float-right"
+            <p class="float-right">{{item.price}}€</p>
+            <button class="btn btn-primary btn-dark btn-block snipcart-add-item"
             data-item-id="{{item.sku}}"
             data-item-name="{{item.title}}"
             data-item-price="{{item.price}}"
             data-item-url="{{site.baseurl}}{{page.url}}"
-            data-item-description="{{item.desc}}">Ajouter</button></p>
+            data-item-description="{{item.desc}}"><i class="fas fa-cart-plus"></i> Ajouter</button>
           </div>
         </div>
       </div>
