@@ -39,7 +39,7 @@ pos: 3
     <div class="row">
       {%- for item in site.vetements -%}
       <div class="col-sm-12 col-md-6 col-lg-4 filter-item all-selected 
-      {{item.marque | slugify | join: ' '}} 
+      {{item.marque | slugify}} 
       {{item.couleur | join: ' '}}
       {{item.manche | join: ' '}}
       ">
