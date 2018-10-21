@@ -38,16 +38,17 @@ pos: 3
     <h5>Produits</h5>
     <div class="row">
       {%- for item in site.vetements -%}
-      <div class="col-sm-12 col-md-6 col-lg-4 filter-item all-selected 
+      <div class="col-sm-12 col-md-6 col-lg-4 d-flex align-items-stretch filter-item all-selected 
       {{item.marque | slugify}} 
       {{item.couleur | join: ' '}}
       {{item.manche | join: ' '}}
       ">
-        <div class="card">
+      <div class="card mb-3 bg-light border-light">
           <img class="card-img-top img-fluid" src="{{site.baseurl}}{{item.image}}" alt="Card image cap">
           <div class="card-body">
-            <h6 class="card-title">{{ item.title }}</h6>
-            <p class="card-text py-0 my-0"><strong>{{ item.marque }}</strong> - <em>{{item.couleur | join: ', '}} - {{item.sexe}}</em></p>
+            <h6 class="card-title text-center">{{ item.title }}</h6>
+            <p class="card-text py-0 my-0"><strong>{{ item.marque }}</strong> - {{item.sexe}}</p>
+            <p class="card-text py-0 my-0"><small>{{item.couleur | join: ', '}} - Manches {{item.manche | downcase}}</small></p>
             <p class="card-text"><small>{{ item.desc }}</small></p>
             <p>{{item.price}}€<button class="btn btn-primary snipcart-add-item float-right"
             data-item-id="{{item.sku}}"

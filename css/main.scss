@@ -30,7 +30,12 @@
 } 
 /* selected class applied via js */
 
-
+.sticky-aside {
+  position: -webkit-sticky;
+  position: sticky;
+  width: 99%;
+  top: -1px;
+ }
 
 #header-top {
   background: $black;
