@@ -10,8 +10,8 @@ pos: 3
   <p class="mb-0 mt-3">Marques</p>
   {% for item in marques %}
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
-    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item | slugify}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item | slugify}}">{{item}}</label>
   </div>
   {% endfor %}
   {% assign couleurs = site.vetements | map: 'couleur' | uniq %}
@@ -39,8 +39,9 @@ pos: 3
     <div class="row">
       {%- for item in site.vetements -%}
       <div class="col-sm-12 col-md-6 col-lg-4 filter-item all-selected 
-      {{item.couleur | join: ' '}} 
-      {{item.matiere | join: ' '}}
+      {{item.marque | slugify | join: ' '}} 
+      {{item.couleur | join: ' '}}
+      {{item.manche | join: ' '}}
       ">
         <div class="card">
           <img class="card-img-top img-fluid" src="{{site.baseurl}}{{item.image}}" alt="Card image cap">
