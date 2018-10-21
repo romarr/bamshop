@@ -4,7 +4,8 @@ title: Accessoires
 place: menu
 pos: 8
 ---
-<div class="col-xs-12 col-md-2 col-sm-4 collapse d-sm-block sticky-aside" id="asideCol">
+<div class="col-xs-12 col-md-2 col-sm-4 collapse d-sm-block" id="asideCol">
+  <div class="sticky-top">
   <h5>Affiner</h5>
   {% assign marques = site.accessoires | map: 'marque' | uniq %}
   <p class="mb-0 mt-3">Marques</p>
@@ -31,8 +32,9 @@ pos: 8
   </div>
   {% endfor %}
 </div>
+</div>
 <div class="col">
-    <button class="btn btn-info btn-block d-xs-block d-sm-none" type="button" data-toggle="collapse" aria-expanded="true" data-target="#asideCol" aria-expanded="false" aria-controls="asideCol">
+    <button class="btn btn-secondary btn-block d-xs-block d-sm-none" type="button" data-toggle="collapse" aria-expanded="true" data-target="#asideCol" aria-expanded="false" aria-controls="asideCol">
       <i class="fas fa-bars"></i> Affiner
     </button>
     <h5>Produits</h5>
