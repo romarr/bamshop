@@ -40,7 +40,7 @@ pos: 8
     <h5>Produits</h5>
     <div class="row">
       {%- for item in site.accessoires -%}
-      <div class="col-sm-12 col-md-6 col-lg-4 d-flex align-items-stretch filter-item all-selected 
+      <div class="col-sm-12 col-md-6 col-lg-4 filter-item all-selected 
       {{item.marque | slugify}} 
       {{item.type | slugify}} 
       {{item.couleur | join: 'thisisnotacolor' | slugify | replace: 'thisisnotacolor', ' '}}
