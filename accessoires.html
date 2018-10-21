@@ -18,8 +18,8 @@ pos: 8
   <p class="mb-0 mt-3">Type</p>
   {% for item in couleurs %}
   <div class="custom-control custom-checkbox">
-    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item}}" onclick="filterClick(this)">
-    <label class="custom-control-label" for="{{item}}">{{item}}</label>
+    <input type="checkbox" class="custom-control-input filter-input" name="filter" id="{{item | slugify}}" onclick="filterClick(this)">
+    <label class="custom-control-label" for="{{item | slugify}}">{{item}}</label>
   </div>
   {% endfor %}
   {% assign couleurs = site.accessoires | map: 'couleur' | uniq %}
@@ -40,7 +40,7 @@ pos: 8
       {%- for item in site.accessoires -%}
       <div class="col-sm-12 col-md-6 col-lg-4 filter-item all-selected 
       {{item.marque | slugify | join: ' '}} 
-      {{item.type | join: ' '}} 
+      {{item.type | slugify | join: ' '}} 
       {{item.couleur | join: ' '}}
       ">
         <div class="card">
