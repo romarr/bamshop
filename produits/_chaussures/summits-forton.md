@@ -10,7 +10,14 @@ matiere:
 couleur:
   - Gris
 taille:
-  - Noir
+  - '40'
+  - '41'
+  - '42'
+  - '42.5'
+  - '43'
+  - '44'
+  - '45'
+  - '46'
 image: /img/uploads/summit-forton.jpg
 ---
 Baskets légère à mémoire de forme,
