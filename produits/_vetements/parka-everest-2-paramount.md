@@ -3,7 +3,7 @@ title: Parka Everest 2 paramount
 id: '102'
 price: '229'
 desc: Parka longue
-marque: Reskins
+marque: Redskins
 couleur:
   - Noir
 taille:
