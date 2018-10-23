@@ -4,6 +4,7 @@ sku: '205'
 price: '129.90'
 desc: Basket pailletée en cuir véritable
 marque: Versace Jeans
+sexe: Femme
 matiere:
   - Textile
   - Cuir

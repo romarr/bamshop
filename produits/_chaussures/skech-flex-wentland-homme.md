@@ -6,6 +6,7 @@ desc: 'Sportive '
 marque: Skechers
 matiere:
   - Tissus
+sexe: Homme
 couleur:
   - Noir
 taille:

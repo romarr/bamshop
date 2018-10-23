@@ -6,6 +6,7 @@ desc: Baskets à mémoire de forme
 marque: Skechers
 matiere:
   - Tissus
+sexe: Homme
 couleur:
   - Blanc
 taille:

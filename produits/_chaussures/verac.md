@@ -7,6 +7,7 @@ marque: Redskins
 matiere:
   - Synthétique
   - Textile
+sexe: Homme
 couleur:
   - Noir
 taille:

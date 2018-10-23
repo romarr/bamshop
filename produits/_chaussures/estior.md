@@ -6,6 +6,7 @@ desc: >-
   Les baskets ESTIOR urbaines et tendance en similicuir sont les incontournables
   de la saison. 
 marque: Redskins
+sexe: Homme
 matiere:
   - Synthétique
   - Textile

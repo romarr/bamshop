@@ -8,6 +8,7 @@ desc: >-
 marque: Redskins
 matiere:
   - Cuir
+sexe: Homme
 couleur:
   - Cognac
   - Marine

@@ -9,6 +9,23 @@ media_folder: "img/uploads" # Media files will be stored in the repo under image
 
 
 collections:
+  - name: "data"
+    label: "Données"
+    files:
+      - label: "Bandeau"
+        name: "scroller"
+        file: "_data/scroller.yml"
+        fields: 
+          - {label: Titre, name: title, widget: string}
+          - {label: Intro, name: intro, widget: markdown}
+          - label: Images
+            name: images
+            widget: list
+            fields:
+              - {label: Name, name: name, widget: string}
+              - {label: Position, name: position, widget: string}
+              - {label: Photo, name: photo, widget: image}
+
   - name: "chaussures"
     label: "Chaussures"
     folder: "produits/_chaussures"

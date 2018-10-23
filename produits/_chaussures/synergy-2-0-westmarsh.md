@@ -6,6 +6,7 @@ desc: Chaussures à mémoire de forme
 marque: Skechers
 matiere:
   - Cuir
+sexe: Homme
 couleur:
   - Noir
   - blanc

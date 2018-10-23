@@ -4,6 +4,7 @@ sku: '206'
 price: '129.90'
 desc: Baskets compensées
 marque: Versace Jeans
+sexe: Femme
 matiere:
   - Textile
   - Cuir

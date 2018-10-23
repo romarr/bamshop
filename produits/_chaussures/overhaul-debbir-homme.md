@@ -4,6 +4,7 @@ id: '210'
 price: '50.90'
 desc: Baskets à mémoire de forme
 marque: Skechers
+sexe: Homme
 matiere:
   - Tissus
   - ''

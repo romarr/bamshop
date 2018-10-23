@@ -4,6 +4,7 @@ sku: '206'
 price: '119.90'
 desc: Basket tendance au style rétro
 marque: Versace Jeans
+sexe: Homme
 matiere:
   - Textile
   - Synthétique

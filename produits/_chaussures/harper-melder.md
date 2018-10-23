@@ -6,6 +6,7 @@ desc: Chaussures à memoire de forme
 marque: Skechers
 matiere:
   - Cuir
+sexe: Homme
 couleur:
   - Noir
 taille:

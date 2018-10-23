@@ -8,6 +8,7 @@ matiere:
   - Synthétique
 couleur:
   - Noir
+sexe: Homme
 taille:
   - '40'
   - '41'

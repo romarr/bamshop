@@ -4,6 +4,7 @@ id: '211'
 price: '54.90'
 desc: Chaussures à mémoire de forme
 marque: Skechers
+sexe: Homme
 matiere:
   - Tissus
 couleur:
