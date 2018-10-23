@@ -4,14 +4,15 @@ sku: '203'
 price: '110'
 desc: Basket tendance au style rétro
 marque: Versace Jeans
-sexe: Femme
 matiere:
   - Cuir
   - Synthétique
 couleur:
   - Noir
 taille:
-  - '37'
+  - '38'
+  - '39'
+sexe: Femme
 image: /img/uploads/versace-jeans_154467_e0vsbsa1_70737-899_20180918t152533_01.jpg
 ---
 Empiècements en cuir suédé véritable
