@@ -2,19 +2,19 @@
 title: Pull Over
 id: '106'
 price: '29.90'
-desc: Pull Over maille fine
+desc: Pull Over à maille fine
 marque: Kenzarro
 couleur:
   - Noir
-  - Gris
+  - Rouge
 taille:
   - M
   - L
   - XL
 manche: Longues
 sexe: Homme
-image: /img/uploads/42711616_679091155809160_3114057671368507392_n.jpg
+image: /img/uploads/noir-rge.png
 ---
-Pull Ove maille fine
+Pull over maille fine
 
 Coton, acrylique
