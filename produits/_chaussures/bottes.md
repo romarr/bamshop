@@ -15,6 +15,6 @@ taille:
   - '39'
   - '40'
 sexe: Femme
-image: /img/uploads/42864397_682743675443908_762407745021280256_n.jpg
+image: /img/uploads/big_boots-bottes-chaussures-redskins-26-file-5b8ea3902725c.jpg
 ---
 Semelle intérieure en similicuir et semelle extérieure en élastomère.
