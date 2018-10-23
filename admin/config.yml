@@ -30,7 +30,7 @@ collections:
     label: "Chaussures"
     folder: "produits/_chaussures"
     create: true
-    slug: "{{slug}}"
+    slug: "{{day}}-{{seconds}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "sku", widget: "string"}
@@ -48,7 +48,7 @@ collections:
     label: "Vêtements"
     folder: "produits/_vetements"
     create: true
-    slug: "{{slug}}"
+    slug: "{{day}}-{{seconds}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "id", widget: "string"}
@@ -66,7 +66,7 @@ collections:
     label: "Accessoires"
     folder: "produits/_accessoires"
     create: true
-    slug: "{{slug}}"
+    slug: "{{day}}-{{seconds}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
       - {label: "Id", name: "id", widget: "string"}

@@ -1,8 +1,8 @@
 ---
-title: 'ECHO PARK VERBIER '
+title: Echo Park Verbier
 id: '103'
 price: '109.90'
-desc: ' DOUDOUNE ZIPPÉE'
+desc: 'Doudoune zippée'
 marque: Redskins
 couleur:
   - Noir
