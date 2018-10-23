@@ -1,15 +1,14 @@
 ---
 title: Synergy 2.0 Westmarsh
-id: '214'
+sku: '228'
 price: '59.90'
 desc: Chaussures à mémoire de forme
 marque: Skechers
 matiere:
   - Cuir
-sexe: Homme
 couleur:
   - Noir
-  - blanc
+  - Blanc
 taille:
   - '40'
   - '41'
@@ -19,6 +18,7 @@ taille:
   - '44'
   - '45'
   - '46'
+sexe: Homme
 image: /img/uploads/synergy.jpg
 ---
 Chaussures à mémoire de forme, 
