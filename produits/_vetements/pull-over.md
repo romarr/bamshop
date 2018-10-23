@@ -8,11 +8,11 @@ couleur:
   - Gris
   - Noir
 taille:
-  - M
-  - L
   - XL
 manche: Longues
 sexe: Homme
-image: /img/uploads/42711616_679091155809160_3114057671368507392_n.jpg
+image: /img/uploads/kenzero.png
 ---
-Pull manches longues
+Pull Over maille fine 
+
+Coton, acrylique
