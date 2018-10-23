@@ -1,16 +1,18 @@
 ---
 title: Jeans Homme
-id: '500'
-price: '54.90'
-desc: 'Jeans '
+id: '501'
+price: '49.90'
+desc: Jeans homme
 marque: Kenzarro
 couleur:
-  - Bleu
+  - Gris
 taille:
-  - '32'
-  - '32'
+  - '30'
+  - '31'
+  - '31'
+  - ''
 manche: Long
 sexe: Homme
-image: /img/uploads/jean-peinture.jpg
+image: /img/uploads/42595340_679090699142539_2111008573814210560_n.jpg
 ---
-Jeans Homme Kenzarro
+Jeans Homme
