@@ -4,7 +4,6 @@ sku: '204'
 price: '110'
 desc: Basket tendance au style rétro
 marque: Versace Jeans
-sexe: Femme
 matiere:
   - Cuir
   - Synthétique
@@ -12,6 +11,8 @@ couleur:
   - Noir
 taille:
   - '37'
+  - '39'
+sexe: Femme
 image: /img/uploads/versace-jeans_154466_e0vsbsa1_70823-899_20180918t152606_01.jpg
 ---
 • Empiècements en cuir suédé véritable
