@@ -1,18 +1,19 @@
 ---
 title: Ladera Stuy
-id: '120'
+id: '121'
 price: '84.90'
 desc: Veste
 marque: Redskins
 couleur:
-  - Gris
+  - Bleu
   - Noir
 taille:
   - M
   - L
   - XL
+  - ''
 manche: Longues
 sexe: Homme
-image: /img/uploads/gilet-redskins-ladera-stuy-anthracite_1_v1.jpeg
+image: /img/uploads/413v9uoipll.jpg
 ---
 Veste gilet
