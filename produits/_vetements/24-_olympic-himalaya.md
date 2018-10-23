@@ -1,13 +1,12 @@
 ---
 title: Olympic himalaya
-id: '112'
+id: '114'
 price: '99.00'
 desc: Doudoune 100% nylon
 marque: Redskins
 couleur:
-  - Noir
+  - Kaki
 taille:
-  - M
   - L
   - XL
   - XXL
@@ -15,4 +14,8 @@ manche: Longues
 sexe: Homme
 image: /img/uploads/doudoune-redskins-olympic-himalaya-black.jpg
 ---
-Doudoune Redskins, avec capuche, 3 poches zippés
+Doudoune 100% nylon
+
+3 poches zippés
+
+Capuche
