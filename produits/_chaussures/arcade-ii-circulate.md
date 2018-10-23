@@ -9,7 +9,6 @@ matiere:
   - Tissus
 couleur:
   - Gris
-  - ''
 taille:
   - '40'
   - '42'

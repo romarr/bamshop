@@ -1,5 +1,5 @@
 ---
-title: Rough cut Homme
+title: Rough cut
 id: '212'
 price: '54.90'
 desc: Baskets à mémoire de forme

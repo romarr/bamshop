@@ -1,5 +1,5 @@
 ---
-title: LINEA HIGH RUNNING DORE
+title: Linea High Running Doré
 sku: '206'
 price: '129.90'
 desc: Baskets compensées

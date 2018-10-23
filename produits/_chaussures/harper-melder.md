@@ -1,5 +1,5 @@
 ---
-title: Harper melder Homme
+title: Harper melder
 id: '208'
 price: '64.90'
 desc: Chaussures à memoire de forme

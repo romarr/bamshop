@@ -1,5 +1,5 @@
 ---
-title: LINEA CASSETTA
+title: Linea Cassetta
 sku: '206'
 price: '119.90'
 desc: Basket tendance au style rétro

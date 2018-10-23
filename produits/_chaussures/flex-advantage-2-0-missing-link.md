@@ -1,5 +1,5 @@
 ---
-title: Flex advantage 2.0 Missing link Homme
+title: Flex advantage 2.0 Missing link
 id: '215'
 price: '44.90'
 desc: Baskets à mémoire de forme

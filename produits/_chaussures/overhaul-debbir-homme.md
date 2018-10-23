@@ -1,5 +1,5 @@
 ---
-title: Overhaul debbir Homme
+title: Overhaul debbir
 id: '210'
 price: '50.90'
 desc: Baskets à mémoire de forme

@@ -1,5 +1,5 @@
 ---
-title: Volden fandom Homme
+title: Volden fandom
 id: '214'
 price: '59.90'
 desc: Chaussures à mémoire de forme

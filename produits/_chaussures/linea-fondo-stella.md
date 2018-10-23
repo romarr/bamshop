@@ -1,5 +1,5 @@
 ---
-title: 'LINEA FONDO STELLA '
+title: Linea Fonda Stella
 sku: '203'
 price: '110'
 desc: Basket tendance au style rétro

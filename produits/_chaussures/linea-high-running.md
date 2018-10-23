@@ -1,5 +1,5 @@
 ---
-title: LINEA HIGH RUNNING
+title: Linea High Running
 sku: '205'
 price: '129.90'
 desc: Basket pailletée en cuir véritable

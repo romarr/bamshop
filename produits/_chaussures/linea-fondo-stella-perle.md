@@ -1,5 +1,5 @@
 ---
-title: LINEA FONDO STELLA PERLE
+title: Linea Fonda Stella Perle
 sku: '204'
 price: '110'
 desc: Basket tendance au style rétro

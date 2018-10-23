@@ -1,5 +1,5 @@
 ---
-title: Skech flex wentland Homme
+title: Skech flex wentland
 id: '216'
 price: '69.90'
 desc: 'Sportive '
