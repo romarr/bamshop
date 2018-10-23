@@ -1,17 +1,18 @@
 ---
 title: Catchy Elvis
-id: '117'
+id: '119'
 price: '54.90'
-desc: Pull Over
+desc: 'Pull over '
 marque: Redskins
 couleur:
-  - Noir
-  - Gris
+  - Bleu
+  - Bordeaux
 taille:
   - M
+  - L
   - XL
 manche: Longues
 sexe: Homme
-image: /img/uploads/catchy.png
+image: /img/uploads/pull-bleu.png
 ---
-Pull over Nylon viscose
+Pull over Viscose Nylon
