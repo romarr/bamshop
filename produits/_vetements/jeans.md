@@ -1,18 +1,16 @@
 ---
-title: 'Jeans '
-id: '503'
-price: '49.90'
-desc: Jeans déchiré
+title: Jeans
+id: '504'
+price: '54.90'
+desc: Jeans homme
 marque: Kenzarro
 couleur:
   - Bleu
 taille:
-  - '30'
-  - '31'
+  - '29'
   - '32'
-  - '33'
 manche: Long
 sexe: Homme
-image: /img/uploads/42586395_679090989142510_1665084247142039552_n.jpg
+image: /img/uploads/42582088_679091015809174_4949686638813904896_n.jpg
 ---
-Jeans homme déchiré.
+Jeans homme
