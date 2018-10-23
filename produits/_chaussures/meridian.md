@@ -1,17 +1,20 @@
 ---
 title: Meridian
-sku: '223'
+sku: '224'
 price: '64.90'
-desc: Baskets à mémoire de forme
+desc: Baskets avec semelle à mémoire de forme
 marque: Skechers
 matiere:
   - Tissus
 couleur:
-  - Marron
+  - Noir
 taille:
   - '36'
   - '37'
+  - '38'
+  - '39'
+  - '40'
 sexe: Femme
-image: /img/uploads/61zxklxi2bl._uy395_.jpg
+image: /img/uploads/9200000095610137.jpg
 ---
-Baskets femme avec semelle à mémoire de forme
+Baskets avec semelle à mémoire de forme
