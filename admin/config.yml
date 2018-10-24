@@ -16,14 +16,12 @@ collections:
         name: "scroller"
         file: "_data/scroller.yml"
         fields: 
-          - {label: Titre, name: title, widget: string}
-          - {label: Intro, name: intro, widget: markdown}
           - label: Images
             name: images
             widget: list
             fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
+              - {label: Titre, name: titre, widget: string}
+              - {label: Texte, name: alt, widget: string}
               - {label: Photo, name: photo, widget: image}
 
   - name: "chaussures"

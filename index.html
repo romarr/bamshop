@@ -8,13 +8,13 @@ pos: 0
 <div class="col-12">
         <div id="homeScroller" class="carousel slide carousel-fade" data-ride="carousel">
                 <div class="carousel-inner">
-                {% for item in site.data.scroller %}
+                {% for item in site.data.scroller.images %}
                 {% if forloop.first %}
                 <div class="carousel-item active">
                 {% else %}
                 <div class="carousel-item">
                 {% endif %}
-                <img class="d-block w-100" src="{{site.baseurl}}/img/{{item.image}}" alt="First slide">
+                <img class="d-block w-100" src="{{site.baseurl}}{{item.photo}}" alt="First slide">
                 <div class="carousel-caption d-none d-md-block">
                 <h5>{{ item.titre }}</h5>
                 <p>{{ item.alt }}</p>

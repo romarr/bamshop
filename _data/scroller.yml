@@ -1,11 +1,13 @@
-- titre: BamShop
-  image: fringues.jpg
-  alt: "Boutique"
-
-- titre: Livraison express
-  image: livraison.jpg
-  alt: "Livraison dans la journée"
-  
-- titre: nouveautés
-  image: nouveau.jpg
-  alt: "Nouveaux produits"
+title: Scroller
+intro: scroller
+images:
+  - titre: BamShop
+    photo: /img/fringues.jpg
+    alt: "Boutique"
+  - titre: Livraison express
+    photo: /img/livraison.jpg
+    alt: "Livraison dans la journée"  
+  - titre: nouveautés
+    photo: /img/nouveau.jpg
+    alt: "Nouveaux produits"
+position: test
