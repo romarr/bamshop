@@ -1,12 +1,7 @@
-title: Scroller
-intro: scroller
 images:
-  - titre: BamShop
+  - alt: Prêt à porter - Femmes & Hommes
     photo: /img/fringues.jpg
-    alt: "Boutique"
-  - titre: Livraison express
+    titre: BamShop
+  - alt: Livraison dans la journée
     photo: /img/livraison.jpg
-    alt: "Livraison dans la journée"  
-  - titre: nouveautés
-    photo: /img/nouveau.jpg
-    alt: "Nouveaux produits"
+    titre: Livraison express
