@@ -1,6 +1,6 @@
 ---
 title: Overhaul debbir
-id: '210'
+sku: '210'
 price: '50.90'
 desc: Baskets à mémoire de forme
 marque: Skechers

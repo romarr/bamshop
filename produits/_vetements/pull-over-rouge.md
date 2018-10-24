@@ -1,6 +1,6 @@
 ---
 title: Pull Over Rouge
-id: '110'
+sku: '110'
 price: '29.90'
 desc: Pull Over maille fine
 marque: Kenzarro

@@ -1,6 +1,6 @@
 ---
 title: Banane
-id: '311'
+sku: '311'
 price: '24'
 desc: Banane
 marque: Redskins

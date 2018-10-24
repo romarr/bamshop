@@ -1,6 +1,6 @@
 ---
 title: Jeans ultra déchiré
-id: '505'
+sku: '505'
 price: '54.90'
 desc: Jeans ultra déchiré
 marque: Kenzarro

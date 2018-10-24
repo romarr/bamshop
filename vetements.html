@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Vêtements
+img: ban-vetements.jpg
 place: menu
 pos: 3
 ---
@@ -45,6 +46,8 @@ pos: 3
             data-item-name="{{item.title}}"
             data-item-price="{{item.price}}"
             data-item-url="{{site.baseurl}}{{page.url}}"
+            data-item-custom1-name="Taille"
+            data-item-custom1-options="{{item.taille | join: '|'}}"
             data-item-description="{{item.desc}}"><i class="fas fa-cart-plus"></i> Ajouter</button>
           </div>
         </div>

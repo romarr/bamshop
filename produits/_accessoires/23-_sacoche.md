@@ -1,6 +1,6 @@
 ---
 title: Sacoche
-id: '312'
+sku: '312'
 price: '34'
 desc: 'Sacoche  en bandoulière '
 marque: Redskins

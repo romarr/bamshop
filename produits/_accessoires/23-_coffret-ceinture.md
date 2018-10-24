@@ -1,6 +1,6 @@
 ---
 title: Coffret ceinture
-id: '313'
+sku: '313'
 price: '45.40'
 desc: Ceinture 2 boucles cuir
 marque: Redskins

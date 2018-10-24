@@ -1,6 +1,6 @@
 ---
 title: Darkside Elvis
-id: '119'
+sku: '119'
 price: '54.90'
 desc: 'Pull over'
 marque: Redskins

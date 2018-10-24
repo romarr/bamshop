@@ -1,6 +1,6 @@
 ---
 title: Summits forton
-id: '209'
+sku: '209'
 price: '49.90'
 desc: Baskets à mémoire de forme
 marque: Skechers

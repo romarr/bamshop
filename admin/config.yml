@@ -51,7 +51,7 @@ collections:
     slug: "{{day}}-{{second}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
-      - {label: "Id", name: "id", widget: "string"}
+      - {label: "Id", name: "sku", widget: "string"}
       - {label: "Prix", name: "price", widget: "number"}
       - {label: "Description", name: "desc", widget: "string"}
       - {label: "Marque", name: "marque", widget: "string"}
@@ -69,7 +69,7 @@ collections:
     slug: "{{day}}-{{second}}_{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Nom", name: "title", widget: "string"}
-      - {label: "Id", name: "id", widget: "string"}
+      - {label: "Id", name: "sku", widget: "string"}
       - {label: "Prix", name: "price", widget: "number"}
       - {label: "Description", name: "desc", widget: "string"}
       - {label: "Marque", name: "marque", widget: "string"}

@@ -1,6 +1,6 @@
 ---
 title: echarpe
-id: '316'
+sku: '316'
 price: '18'
 desc: Acrylique
 marque: Redskins

@@ -1,6 +1,6 @@
 ---
 title: Jeans Homme
-id: '501'
+sku: '501'
 price: '49.90'
 desc: Jeans homme
 marque: Kenzarro

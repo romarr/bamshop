@@ -1,6 +1,6 @@
 ---
 title: Harper melder
-id: '208'
+sku: '208'
 price: '64.90'
 desc: Chaussures à memoire de forme
 marque: Skechers

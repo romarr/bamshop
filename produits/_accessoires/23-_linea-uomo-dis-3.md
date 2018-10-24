@@ -1,6 +1,6 @@
 ---
 title: Linea uomo dis 3
-id: '308'
+sku: '308'
 price: '60'
 desc: Ceinture cuir 110 cm
 marque: Versace Jeans

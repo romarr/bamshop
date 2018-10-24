@@ -1,6 +1,6 @@
 ---
 title: Pull Over Noeud
-id: '111'
+sku: '111'
 price: '39.90'
 desc: Pull Over grosse maille
 marque: Kenzarro

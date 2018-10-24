@@ -1,6 +1,6 @@
 ---
 title: Bonnet
-id: '316'
+sku: '316'
 price: '19'
 desc: Bonnet
 marque: Redskins

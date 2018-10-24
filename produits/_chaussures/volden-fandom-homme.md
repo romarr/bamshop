@@ -1,6 +1,6 @@
 ---
 title: Volden fandom
-id: '214'
+sku: '214'
 price: '59.90'
 desc: Chaussures à mémoire de forme
 marque: Skechers

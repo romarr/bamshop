@@ -1,6 +1,6 @@
 ---
 title: Arcade II circulate
-id: '211'
+sku: '211'
 price: '54.90'
 desc: Chaussures à mémoire de forme
 marque: Skechers

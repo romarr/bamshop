@@ -1,6 +1,6 @@
 ---
 title: Flex advantage 2.0 Missing link
-id: '215'
+sku: '215'
 price: '44.90'
 desc: Baskets à mémoire de forme
 marque: Skechers

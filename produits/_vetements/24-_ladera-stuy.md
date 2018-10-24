@@ -1,6 +1,6 @@
 ---
 title: Ladera Stuy
-id: '121'
+sku: '121'
 price: '84.90'
 desc: Veste
 marque: Redskins

@@ -1,6 +1,6 @@
 ---
 title: Linea chevron Dis 7
-id: '309'
+sku: '309'
 price: '84.90'
 desc: Sacoche bandoulière
 marque: Versace Jeans

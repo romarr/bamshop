@@ -1,6 +1,6 @@
 ---
 title: Zinger Scobie
-id: '213'
+sku: '213'
 price: '54.90'
 desc: Chaussures à mémoire de forme
 marque: Skechers

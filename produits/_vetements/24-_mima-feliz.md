@@ -1,6 +1,6 @@
 ---
 title: Mima feliz
-id: '123'
+sku: '123'
 price: '149.90'
 desc: 'Doudoune '
 marque: Redskins

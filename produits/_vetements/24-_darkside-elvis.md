@@ -1,6 +1,6 @@
 ---
 title: 'Darkside elvis'
-id: '116'
+sku: '116'
 price: '54.90'
 desc: Pull Over
 marque: Redskins

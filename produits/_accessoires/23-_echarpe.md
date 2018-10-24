@@ -1,6 +1,6 @@
 ---
 title: Echarpe
-id: '312'
+sku: '312'
 price: '18'
 desc: Echarpe
 marque: Redskins

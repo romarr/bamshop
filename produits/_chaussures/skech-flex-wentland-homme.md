@@ -1,6 +1,6 @@
 ---
 title: Skech flex wentland
-id: '216'
+sku: '216'
 price: '69.90'
 desc: 'Sportive '
 marque: Skechers

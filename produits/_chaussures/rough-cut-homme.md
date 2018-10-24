@@ -1,6 +1,6 @@
 ---
 title: Rough cut
-id: '212'
+sku: '212'
 price: '54.90'
 desc: Baskets à mémoire de forme
 marque: Skechers

@@ -1,6 +1,6 @@
 ---
 title: Pull Over Homme
-id: '109'
+sku: '109'
 price: '29.90'
 desc: Pull Over Maille fine
 marque: Kenzarro

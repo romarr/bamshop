@@ -1,6 +1,6 @@
 ---
 title: Pull Over Kenzarro
-id: '105'
+sku: '105'
 price: '29.90'
 desc: 'Pull Over '
 marque: Kenzarro

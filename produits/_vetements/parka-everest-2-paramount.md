@@ -1,6 +1,6 @@
 ---
 title: Parka Everest 2 paramount
-id: '102'
+sku: '102'
 price: '229'
 desc: Parka longue
 marque: Redskins

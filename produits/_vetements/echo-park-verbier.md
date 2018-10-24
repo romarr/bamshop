@@ -1,6 +1,6 @@
 ---
 title: Echo Park Verbier
-id: '103'
+sku: '103'
 price: '109.90'
 desc: 'Doudoune zippée'
 marque: Redskins

@@ -1,6 +1,6 @@
 ---
 title: Linea macrologo dis 3
-id: '310'
+sku: '310'
 price: '84.90'
 desc: 'Sacoche bandoulière '
 marque: Versace Jeans

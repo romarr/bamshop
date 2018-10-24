@@ -1,6 +1,6 @@
 ---
 title: Olympic himalaya
-id: '115'
+sku: '115'
 price: '99'
 desc: Doudoune 100% nylon
 marque: Redskins

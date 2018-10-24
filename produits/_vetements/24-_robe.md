@@ -1,6 +1,6 @@
 ---
 title: Robe
-id: '125'
+sku: '125'
 price: '25'
 desc: Robe dentelle
 marque: Autre

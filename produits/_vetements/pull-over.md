@@ -1,6 +1,6 @@
 ---
 title: Pull Over
-id: '106'
+sku: '106'
 price: '29.90'
 desc: Pull Over à maille fine
 marque: Kenzarro
