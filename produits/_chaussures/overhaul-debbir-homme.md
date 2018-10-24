@@ -7,7 +7,6 @@ marque: Skechers
 sexe: Homme
 matiere:
   - Tissus
-  - ''
 couleur:
   - Noir
 taille:

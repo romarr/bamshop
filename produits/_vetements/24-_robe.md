@@ -3,7 +3,7 @@ title: Robe
 id: '125'
 price: '25'
 desc: Robe dentelle
-marque: /
+marque: Autre
 couleur:
   - Rouge
 taille:

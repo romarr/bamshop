@@ -11,7 +11,6 @@ taille:
   - M
   - L
   - XL
-  - ''
 manche: Longues
 sexe: Homme
 image: /img/uploads/413v9uoipll.jpg

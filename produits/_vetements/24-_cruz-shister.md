@@ -3,7 +3,7 @@ title: Cruz shister
 id: '113'
 price: '45.90'
 desc: Jeans slim
-marque: 'Redskins '
+marque: Redskins
 couleur:
   - Gris
 taille:
