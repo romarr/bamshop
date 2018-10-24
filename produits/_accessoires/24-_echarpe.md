@@ -1,5 +1,5 @@
 ---
-title: Echarpe
+title: echarpe
 id: '316'
 price: '18'
 desc: Acrylique
