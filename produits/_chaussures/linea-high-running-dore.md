@@ -4,7 +4,6 @@ sku: '206'
 price: '129.90'
 desc: Baskets compensées
 marque: Versace Jeans
-sexe: Femme
 matiere:
   - Textile
   - Cuir
@@ -12,7 +11,10 @@ couleur:
   - Noir
   - Doré
 taille:
+  - '37'
   - '38'
+  - '39'
+sexe: Femme
 image: /img/uploads/baskets-mode-e0vsbsl1-femme-versace-jeans-e0vsbsl1.jpg
 ---
 • Languette en mesh réspirant 
