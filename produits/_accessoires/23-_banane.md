@@ -7,6 +7,6 @@ marque: Redskins
 couleur:
   - Noir
 type: Banane
-image: /img/uploads/téléchargement-1-.jpg
+image: /img/uploads/8166840_200_a-2-.jpg
 ---
 Banane
