@@ -4,8 +4,8 @@ subtitle: Livraison express
 email: admin@bamshop.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Boutique de vêtements, chaussures, maroquinerie et accessoires.
-baseurl: "/bamshop" # the subpath of your site, e.g. /blog
-url: "https://romarr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://bamshop.fr" # the base hostname & protocol for your site, e.g. http://example.com
 encoding: "utf-8"
 timezone: Europe/Paris
 fb-url: https://www.facebook.com/bamshop06/
