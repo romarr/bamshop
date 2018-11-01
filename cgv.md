@@ -8,7 +8,7 @@ place: conditions
 <h4>Mentions légales</h4>
 
 ##### Identité
-Le site bamshop.fr est édité et exploité par la société BAMSHOP, SARAL Unipersonnelle au capital social de EUR 1.500, située 60 AV DE NICE 06800 CAGNES SUR MER et immatriculée au titre d'activité de Commerce de détail d'habillement.
+Le site bamshop.fr est édité et exploité par la société BAMSHOP, SARL Unipersonnelle au capital social de EUR 1.500, située 60 AV DE NICE 06800 CAGNES SUR MER et immatriculée au titre d'activité de Commerce de détail d'habillement.
 
 ##### Hébergeur
 
