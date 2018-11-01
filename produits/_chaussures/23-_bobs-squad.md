@@ -12,7 +12,7 @@ taille:
   - '37'
   - '40'
 sexe: Femme
-image: /img/uploads/baskets-skechers-bobs-squad-noir-femme_3_v1.jpeg
+image: /img/uploads/baskets-skechers-bobs-squad-noir-femme_3_v1.jpg
 poids: '600'
 ---
 Baskets avec semelle à mémoire de forme
