@@ -34,7 +34,7 @@ pos: 5
     {{item.matiere | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ' '}}
     ">
     <div class="card mb-3 bg-light border-light">
-        <img class="card-img-top img-fluid" src="{{site.baseurl}}{{item.image}}" alt="Card image cap">
+        <img class="card-img-top img-produit img-fluid" src="{{site.baseurl}}{{item.image}}" alt="Card image cap">
         <div class="card-body">
           <h6 class="card-title text-center">{{ item.title }}</h6>
           <p class="card-text py-0 my-0"><strong>{{ item.marque }}</strong> - {{item.sexe}}</p>
