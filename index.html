@@ -51,9 +51,10 @@ pos: 0
                   {{item.price}}€
                   <button class="btn btn-dark snipcart-add-item"
                   data-item-id="{{item.sku}}"
+                  data-item-weight="{{item.poids}}"
                   data-item-name="{{item.title}}"
                   data-item-price="{{item.price}}"
-                  data-item-url="{{site.baseurl}}"
+                  data-item-url="{{site.baseurl}}{{page.url}}"
                   data-item-description="{{item.desc}}"><i class="fas fa-cart-plus"></i></button>
                 </p>            
               </div>
