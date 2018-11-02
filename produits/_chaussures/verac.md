@@ -12,6 +12,7 @@ couleur:
   - Noir
 taille:
   - '40'
+  - '40'
 image:
   - alt: 'Bonnet noir Redskins'
     photo: /img/uploads/verac.jpg

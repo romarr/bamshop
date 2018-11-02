@@ -12,6 +12,7 @@ couleur:
   - Noir
 taille:
   - '40'
+  - '40'
 image:
   - alt: 'Bonnet noir Redskins'
     photo: /img/uploads/versace-jeans_154476_e0ysbsf4_70820-899_20180918t152720_01.jpg
