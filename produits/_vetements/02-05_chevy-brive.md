@@ -15,8 +15,8 @@ taille:
 manche: Longues
 sexe: Homme
 image:
-  - photo: /img/uploads/chevry-brive.jpg
-    alt: 'Bonnet noir Redskins'
+  - alt: 'Blouson redskin'
+    photo: /img/uploads/chevry-brive.jpg
 poids: '600'
 ---
 Blouson Redskins avec col montant , 100% Polyester

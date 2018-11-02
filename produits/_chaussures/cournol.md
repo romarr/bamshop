@@ -14,8 +14,7 @@ couleur:
   - Cognac
   - Marine
 taille:
-  - '40'
-  - '40'
+  - '40[]'
 image:
   - alt: 'Bonnet noir Redskins'
     photo: /img/uploads/chaussures-cournol-marron-homme-redskins.jpg

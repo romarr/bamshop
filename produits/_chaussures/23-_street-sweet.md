@@ -9,8 +9,7 @@ matiere:
 couleur:
   - Blanc
 taille:
-  - '38'
-  - '38'
+  - '38[]'
 sexe: Femme
 image:
   - alt: 'Bonnet noir Redskins'
