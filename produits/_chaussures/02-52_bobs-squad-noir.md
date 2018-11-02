@@ -10,6 +10,7 @@ couleur:
   - Noir
 taille:
   - '39'
+  - '39'
 sexe: Femme
 image:
   - alt: Bobs squad baskets skechers
