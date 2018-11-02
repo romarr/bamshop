@@ -17,7 +17,7 @@ taille:
 sexe: Homme
 image:
   - alt: Baskets estior redskins
-    photo: /img/uploads/redskins-estior.jpg
+    photo: /img/uploads/estior.jpg
 poids: '500'
 ---
 Les baskets ESTIOR urbaines et tendance en similicuir sont les incontournables de la saison. Composition: Tige synthétique, doublure en tissu et semelle en élastomère.
