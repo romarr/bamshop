@@ -6,7 +6,6 @@ desc: >-
   Les baskets ESTIOR urbaines et tendance en similicuir sont les incontournables
   de la saison. 
 marque: Redskins
-sexe: Homme
 matiere:
   - Synthétique
   - Textile
@@ -15,8 +14,10 @@ couleur:
 taille:
   - '40'
   - '41'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
+  - alt: Baskets estior redskins
     photo: /img/uploads/redskins-estior.jpg
+poids: '500'
 ---
 Les baskets ESTIOR urbaines et tendance en similicuir sont les incontournables de la saison. Composition: Tige synthétique, doublure en tissu et semelle en élastomère.
