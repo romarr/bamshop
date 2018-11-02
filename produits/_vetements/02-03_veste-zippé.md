@@ -16,7 +16,8 @@ taille:
 manche: Longues
 sexe: Homme
 image:
-  - photo: /img/uploads/gilet-redskins-ladera-stuy-anthracite_1_v1.jpeg
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/gilet-redskins-ladera-stuy-anthracite_1_v1.jpeg
 poids: '500'
 ---
 Veste à capuche zippé en Coton et en polyester.
