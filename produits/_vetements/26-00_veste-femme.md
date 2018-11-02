@@ -3,7 +3,7 @@ title: Veste femme
 sku: '136'
 price: '49.90'
 desc: Veste femme
-marque: '0'
+marque: 'Autres'
 couleur:
   - Rose
 taille:

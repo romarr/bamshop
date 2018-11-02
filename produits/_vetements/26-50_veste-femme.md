@@ -3,7 +3,7 @@ title: Veste Femme
 sku: '156'
 price: '49.90'
 desc: Veste femme
-marque: '0'
+marque: 'Autres'
 couleur:
   - Cognac
 taille:

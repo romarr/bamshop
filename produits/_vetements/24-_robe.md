@@ -3,7 +3,7 @@ title: Robe
 sku: '125'
 price: '25'
 desc: Robe dentelle
-marque: Autre
+marque: 'Autres'
 couleur:
   - Rouge
 taille:
