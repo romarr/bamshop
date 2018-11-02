@@ -1,5 +1,5 @@
 ---
-title: Bobs squad
+title: Bobs squad noir
 sku: '226'
 price: '45'
 desc: Baskets avec semelle à mémoire de forme
@@ -12,7 +12,7 @@ taille:
   - '39'
 sexe: Femme
 image:
-  - alt: 'Bonnet noir Redskins'
+  - alt: 'Bobs Squad semelle noire'
     photo: /img/uploads/81y8hhgjkel._ux395_.jpg
 ---
 Baskets avec semelle à mémoire de forme
