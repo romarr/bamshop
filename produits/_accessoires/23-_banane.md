@@ -2,11 +2,16 @@
 title: Banane
 sku: '311'
 price: '24'
-desc: Banane
+desc: Sacoche banane
 marque: Redskins
 couleur:
   - Noir
-type: Banane
-image: /img/uploads/8166840_200_a-2-.jpg
+type: Sacoche
+image:
+  - alt: 'Prêt à porter - Femmes & Hommes'
+    photo: /img/uploads/8166840_200_a-2-.jpg
+  - alt: 'Livraison dans la journée'
+    photo: /img/uploads/8166840_200_a-2-.jpg
+poids: '100'
 ---
 Banane

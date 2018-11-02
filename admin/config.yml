@@ -37,7 +37,12 @@ collections:
       - {label: "Couleur", name: "couleur", widget: "list"}
       - {label: "Taille", name: "taille", widget: "list"}
       - {label: "Sexe", name: "sexe", widget: "select", options: ["Femme", "Homme", "Unisex"]}
-      - {label: "Photo", name: "image", widget: "image"}
+      - label: "Photo"
+        name: "image"
+        widget: "list"
+        fields:
+          - {label: Texte, name: alt, widget: string}
+          - {label: Photo, name: photo, widget: image}
       - {label: "Poids", name: "poids", widget: "number"}
       - {label: "Texte", name: "body", widget: "markdown"}
 
@@ -56,7 +61,12 @@ collections:
       - {label: "Taille", name: "taille", widget: "list"}
       - {label: "Manches", name: "manche", widget: "string"}
       - {label: "Sexe", name: "sexe", widget: "select", options: ["Femme", "Homme", "Unisex"]}
-      - {label: "Photo", name: "image", widget: "image"}
+      - label: "Photo"
+        name: "image"
+        widget: "list"
+        fields:
+          - {label: Texte, name: alt, widget: string}
+          - {label: Photo, name: photo, widget: image}
       - {label: "Poids", name: "poids", widget: "number"}
       - {label: "Texte", name: "body", widget: "markdown"}
 
@@ -73,6 +83,11 @@ collections:
       - {label: "Marque", name: "marque", widget: "string"}
       - {label: "Couleur", name: "couleur", widget: "list"}
       - {label: "Type", name: "type", widget: "string"}
-      - {label: "Photo", name: "image", widget: "image"}
+      - label: "Photo"
+        name: "image"
+        widget: "list"
+        fields:
+          - {label: Texte, name: alt, widget: string}
+          - {label: Photo, name: photo, widget: image}
       - {label: "Poids", name: "poids", widget: "number"}
       - {label: "Texte", name: "body", widget: "markdown"}
