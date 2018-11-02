@@ -11,6 +11,8 @@ couleur:
 taille:
   - '38'
 sexe: Femme
-image: /img/uploads/téléchargement.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/téléchargement.jpg
 ---
 Baskets avec semelle à mémoire de forme

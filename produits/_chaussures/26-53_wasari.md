@@ -17,6 +17,8 @@ taille:
   - '43'
   - '44'
 sexe: Homme
-image: /img/uploads/wasari.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/wasari.jpg
 ---
 Chaussures de ville

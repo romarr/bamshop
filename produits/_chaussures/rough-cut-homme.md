@@ -18,6 +18,8 @@ taille:
   - '44'
   - '45'
   - '46'
-image: /img/uploads/52822_bbk.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/52822_bbk.jpg
 ---
 Baskets légère à mémoire de forme

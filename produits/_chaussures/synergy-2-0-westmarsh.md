@@ -19,7 +19,9 @@ taille:
   - '45'
   - '46'
 sexe: Homme
-image: /img/uploads/synergy.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/synergy.jpg
 ---
 Chaussures à mémoire de forme, 
 

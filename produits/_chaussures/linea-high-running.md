@@ -15,7 +15,9 @@ taille:
   - '38'
   - '39'
 sexe: Femme
-image: /img/uploads/versace-jeans_155605_e0vsbsl1_70835-899_20180918t163847_01.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/versace-jeans_155605_e0vsbsl1_70835-899_20180918t163847_01.jpg
 ---
 • Versace imprimé en doré sur la languette
 

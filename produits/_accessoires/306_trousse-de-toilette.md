@@ -7,6 +7,8 @@ marque: Versace Jeans
 couleur:
   - Noir
 type: Trousse de toilette
-image: /img/uploads/trousse.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/trousse.jpg
 ---
 Élégante Trousse de toilette pour ranger vos produits lors de vos déplacements

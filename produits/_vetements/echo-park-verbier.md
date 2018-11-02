@@ -15,7 +15,9 @@ taille:
   - XXL
 manche: Longues
 sexe: Homme
-image: /img/uploads/doudoune.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/doudoune.jpg
 ---
 • Doudoune eà motif camouflage 
 

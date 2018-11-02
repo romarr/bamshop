@@ -15,6 +15,8 @@ couleur:
 taille:
   - '40'
   - '41'
-image: /img/uploads/redskins-estior.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/redskins-estior.jpg
 ---
 Les baskets ESTIOR urbaines et tendance en similicuir sont les incontournables de la saison. Composition: Tige synthétique, doublure en tissu et semelle en élastomère.

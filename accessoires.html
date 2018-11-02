@@ -51,41 +51,47 @@ pos: 8
           </div>
         </div>
       </div>
-      <div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="img{{forloop.index}}" aria-hidden="true" id="img{{forloop.index}}">
-          <div class="modal-dialog" role="document">
-            <div class="modal-content">
-              <div class="modal-header">
-                <h5 class="modal-title">{{item.title}}</h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                </button>
-              </div>
-              <div class="modal-body">
-                <div id="scroller{{forloop.index}}" class="carousel slide" data-ride="carousel">
-                  <div class="carousel-inner">
-                    {% for pic in item.image %}
-                    {% if forloop.first %}
-                    <div class="carousel-item active">
-                    {% else %}
-                    <div class="carousel-item">
-                    {% endif %}
-                      <img class="d-block w-100" src="{{pic.photo}}" alt="{{pic.alt}}">
-                    </div>
-                    {% endfor %}
-                  </div>
-                  <a class="carousel-control-prev" href="#scroller{{forloop.index}}" role="button" data-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Previous</span>
-                  </a>
-                  <a class="carousel-control-next" href="#scroller{{forloop.index}}" role="button" data-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="sr-only">Next</span>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
       {%- endfor -%}
     </div>
 </div>
+
+
+
+{%- for item in site.accessoires -%}
+<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="img{{forloop.index}}" aria-hidden="true" id="img{{forloop.index}}">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">{{item.title}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="scroller{{forloop.index}}" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            {% for pic in item.image %}
+            {% if forloop.first %}
+            <div class="carousel-item active">
+              {% else %}
+              <div class="carousel-item">
+                {% endif %}
+                <img class="d-block w-100" src="{{pic.photo}}" alt="{{pic.alt}}">
+                {% endfor %}
+              </div>
+              <a class="carousel-control-prev" href="#scroller{{forloop.index}}" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#scroller{{forloop.index}}" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endfor -%}

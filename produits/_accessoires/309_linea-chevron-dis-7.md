@@ -7,6 +7,8 @@ marque: Versace Jeans
 couleur:
   - Noir
 type: Sacoche
-image: /img/uploads/versace-jeans_148517_e1ysbb16-70766_899_20180726t151034_01.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/versace-jeans_148517_e1ysbb16-70766_899_20180726t151034_01.jpg
 ---
 Sacoche Versace jeans

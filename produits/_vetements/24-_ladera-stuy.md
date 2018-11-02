@@ -13,6 +13,8 @@ taille:
   - XL
 manche: Longues
 sexe: Homme
-image: /img/uploads/413v9uoipll.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/413v9uoipll.jpg
 ---
 Veste gilet

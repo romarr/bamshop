@@ -14,7 +14,9 @@ taille:
   - '38'
   - '39'
 sexe: Femme
-image: /img/uploads/43105937_682738342111108_1011093554119835648_n.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/43105937_682738342111108_1011093554119835648_n.jpg
 poids: '1000'
 ---
 Baskets

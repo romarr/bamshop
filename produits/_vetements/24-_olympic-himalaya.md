@@ -13,7 +13,9 @@ taille:
   - XXL
 manche: Longues
 sexe: Homme
-image: /img/uploads/olympic-himalaya-homme-doudoune-marine-redskins.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/olympic-himalaya-homme-doudoune-marine-redskins.jpg
 ---
 Doudoune 100% nylon
 

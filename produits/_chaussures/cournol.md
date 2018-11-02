@@ -15,6 +15,8 @@ couleur:
   - Marine
 taille:
   - '40'
-image: /img/uploads/chaussures-cournol-marron-homme-redskins.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/chaussures-cournol-marron-homme-redskins.jpg
 ---
 La tige bicolore COURNOL est la pièce essentielle du vestiaire masculin de cette saison. Composition: Tige en cuir, doublure en cuir et toile et semelle en élastomère.

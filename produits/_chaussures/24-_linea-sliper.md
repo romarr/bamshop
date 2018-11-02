@@ -16,7 +16,8 @@ taille:
   - '43'
   - '44'
 sexe: Homme
-image: >-
-  /img/uploads/versace-sandale-linea-mare-dis-1-noir-chaussures-claquettes-7b6hutyy-2088-600x600_0.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/versace-sandale-linea-mare-dis-1-noir-chaussures-claquettes-7b6hutyy-2088-600x600_0.jpg
 ---
 Claquette sandale

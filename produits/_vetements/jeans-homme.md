@@ -12,6 +12,8 @@ taille:
   - '31'
 manche: Long
 sexe: Homme
-image: /img/uploads/42595340_679090699142539_2111008573814210560_n.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/42595340_679090699142539_2111008573814210560_n.jpg
 ---
 Jeans Homme

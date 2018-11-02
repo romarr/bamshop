@@ -16,6 +16,8 @@ taille:
   - '42.5'
   - '43'
   - '44'
-image: /img/uploads/volden.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/volden.jpg
 ---
 Chaussures Plates à mémoire de forme en cuir

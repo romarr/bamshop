@@ -7,6 +7,8 @@ marque: Versace Jeans
 couleur:
   - Noir
 type: Ceinture
-image: /img/uploads/7005451_500_a.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/ceinture-versace-linea-dis.jpg
 ---
 Ceinture cuir 110cm

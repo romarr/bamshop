@@ -8,7 +8,9 @@ couleur:
   - Marine
   - Marron
 type: Pochette
-image: /img/uploads/pochette-homme-en-cuir-lawless-az-926587.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/pochette-homme-en-cuir-lawless-az-926587.jpg
 ---
 Type : Pochette
 

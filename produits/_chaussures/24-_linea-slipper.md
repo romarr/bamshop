@@ -15,6 +15,8 @@ taille:
   - '43'
   - '44'
 sexe: Homme
-image: /img/uploads/154209091.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/154209091.jpg
 ---
 Claquette Versace Jeans

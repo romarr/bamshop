@@ -7,6 +7,8 @@ marque: Redskins
 couleur:
   - Noir
 type: Bonnet
-image: /img/uploads/redskins_155317_redemail_noir-chine_20180919t134234_01.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/redskins-bonnet-noir.jpg
 ---
 Bonnet

@@ -34,7 +34,7 @@ pos: 3
       {{item.manche | join: 'thisisnotanitem' | slugify | replace: 'thisisnotanitem', ' '}}
       ">
       <div class="card mb-3 bg-light border-light">
-          <img class="card-img-top img-fluid img-produit" src="{{site.baseurl}}{{item.image}}" alt="Card image cap">
+          <a href="#" data-toggle="modal" data-target="#img{{forloop.index}}"><img class="card-img-top img-produit img-fluid" src="{{site.baseurl}}{{item.image | first | map: 'photo'}}" alt="Card image cap"></a>
           <div class="card-body">
             <h6 class="card-title text-center">{{ item.title }}</h6>
             <p class="card-text py-0 my-0"><strong>{{ item.marque }}</strong> - {{item.sexe}}</p>
@@ -56,3 +56,44 @@ pos: 3
       {%- endfor -%}
     </div>
 </div>
+
+
+
+{%- for item in site.vetements -%}
+<div class="modal fade" tabindex="-1" role="dialog" aria-labelledby="img{{forloop.index}}" aria-hidden="true" id="img{{forloop.index}}">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">{{item.title}}</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <div id="scroller{{forloop.index}}" class="carousel slide" data-ride="carousel">
+          <div class="carousel-inner">
+            {% for pic in item.image %}
+            {% if forloop.first %}
+            <div class="carousel-item active">
+              {% else %}
+              <div class="carousel-item">
+                {% endif %}
+                <img class="d-block w-100" src="{{pic.photo}}" alt="{{pic.alt}}">
+                {% endfor %}
+              </div>
+              <a class="carousel-control-prev" href="#scroller{{forloop.index}}" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+              </a>
+              <a class="carousel-control-next" href="#scroller{{forloop.index}}" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{%- endfor -%}

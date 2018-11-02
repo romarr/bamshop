@@ -7,6 +7,8 @@ marque: Redskins
 couleur:
   - Noir
 type: Ceinture
-image: /img/uploads/ceinture-redskins-coffret-classe-reversible-noi.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/ceinture-redskins-coffret-classe-reversible-noi.jpg
 ---
 Ceinture 2 boucles cuir

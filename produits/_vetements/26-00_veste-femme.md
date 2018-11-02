@@ -11,6 +11,8 @@ taille:
   - L/XL
 manche: Longues
 sexe: Femme
-image: /img/uploads/39177667_651309805253962_1003075859495518208_n.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/39177667_651309805253962_1003075859495518208_n.jpg
 ---
 Veste femme

@@ -7,7 +7,9 @@ marque: Azzaro
 couleur:
   - Noir
 type: Sacoche
-image: /img/uploads/azzaro.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/sacoche-azzaro.jpg
 poids: '600'
 ---
 Sacoche plate

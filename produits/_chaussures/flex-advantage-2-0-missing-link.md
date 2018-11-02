@@ -16,6 +16,8 @@ taille:
   - '44'
   - '45'
   - '46'
-image: /img/uploads/missing-link.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/missing-link.jpg
 ---
 Chaussures de sport à mémoire de forme

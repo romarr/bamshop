@@ -17,6 +17,8 @@ taille:
   - '43'
   - '44'
   - '45'
-image: /img/uploads/overhaul-debbir.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/overhaul-debbir.jpg
 ---
 Baskets à mémoire de forme, très légère et confortable.

@@ -18,6 +18,8 @@ taille:
   - '44'
   - '45'
   - '46'
-image: /img/uploads/52322_bkw_f.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/52322_bkw_f.jpg
 ---
 Chaussures à mémoire de forme

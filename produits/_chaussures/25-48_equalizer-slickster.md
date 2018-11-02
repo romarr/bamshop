@@ -18,6 +18,8 @@ taille:
   - '45'
   - '46'
 sexe: Homme
-image: /img/uploads/52745.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/52745.jpg
 ---
 Equalizer Slickster

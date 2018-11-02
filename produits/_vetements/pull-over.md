@@ -13,7 +13,9 @@ taille:
   - XL
 manche: Longues
 sexe: Homme
-image: /img/uploads/noir-rge.png
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/noir-rge.png
 ---
 Pull over maille fine
 

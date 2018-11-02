@@ -16,6 +16,8 @@ taille:
   - '44'
   - '45'
   - '46'
-image: /img/uploads/51196_gycc.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/51196_gycc.jpg
 ---
 Chaussures à mémoire de forme à lacets

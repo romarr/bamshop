@@ -16,6 +16,8 @@ taille:
   - '45'
   - '46'
 sexe: Homme
-image: /img/uploads/segment-amson.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/segment-amson.jpg
 ---
 cuir imperméable, un col matelassé, une semelle crantée

@@ -18,7 +18,9 @@ taille:
   - '44'
   - '45'
   - '46'
-image: /img/uploads/summit-forton.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/summit-forton.jpg
 ---
 Baskets légère à mémoire de forme,
 

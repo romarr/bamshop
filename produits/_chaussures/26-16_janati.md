@@ -18,6 +18,8 @@ taille:
   - '44'
   - '45'
 sexe: Homme
-image: /img/uploads/janati.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/janati.jpg
 ---
 Chaussures de ville discret motif camouflage à bout rond, double protection contre le froid

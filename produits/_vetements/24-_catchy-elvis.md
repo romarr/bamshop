@@ -13,6 +13,8 @@ taille:
   - XL
 manche: Longues
 sexe: Homme
-image: /img/uploads/pull-bleu.png
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/pull-bleu.png
 ---
 Pull over Viscose Nylon

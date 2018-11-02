@@ -14,6 +14,8 @@ taille:
   - '43'
   - '45'
 sexe: Homme
-image: /img/uploads/65551_blk.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/65551_blk.jpg
 ---
 Chaussures avec semelle à mémoire de forme

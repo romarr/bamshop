@@ -14,6 +14,8 @@ taille:
   - '38'
   - '39'
 sexe: Femme
-image: /img/uploads/0000200577203_01_pz.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/0000200577203_01_pz.jpg
 ---
 Claquette Versace Jeans

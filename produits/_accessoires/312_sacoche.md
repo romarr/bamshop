@@ -7,6 +7,8 @@ marque: Redskins
 couleur:
   - Noir
 type: Sacoche
-image: /img/uploads/maroquinerie-redskins-sac-fever-noir.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/maroquinerie-redskins-sac-fever-noir.jpg
 ---
 Sacoche en bandoulière

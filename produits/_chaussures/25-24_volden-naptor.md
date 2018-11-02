@@ -20,6 +20,8 @@ taille:
   - '45'
   - '46'
 sexe: Homme
-image: /img/uploads/téléchargement-1-.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/téléchargement-1-.jpg
 ---
 Chaussures montantes, plates, extérieur cuir, semelle synthétique, doublure tissus

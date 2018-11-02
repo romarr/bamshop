@@ -9,7 +9,9 @@ marque: Redskins
 couleur:
   - Noir
 type: Sac à dos
-image: /img/uploads/7920079_500_a.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/sac-a-dos-redskins.jpg
 ---
 En sortie ou en voyage, il sera votre meilleur compagnon pour transporter vos affaires avec style.
 

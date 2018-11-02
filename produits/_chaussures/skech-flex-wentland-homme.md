@@ -17,7 +17,9 @@ taille:
   - '44'
   - '45'
   - '46'
-image: /img/uploads/skech804113_41823_jb.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/skech804113_41823_jb.jpg
 ---
 formateurs Wentland
 

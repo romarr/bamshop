@@ -10,6 +10,8 @@ taille:
   - S
 manche: Longues
 sexe: Femme
-image: /img/uploads/minaj.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/minaj.jpg
 ---
 La doudoune cintrée MINAJ FUTURE arbore une capuche ornée de fourrure (synthétique) blanche, contrastante, très tendance. Elle dispose d'une ceinture à la taille et de deux poches latérales zippées.

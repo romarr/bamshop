@@ -15,7 +15,9 @@ taille:
   - '38'
   - '39'
 sexe: Femme
-image: /img/uploads/baskets-mode-e0vsbsl1-femme-versace-jeans-e0vsbsl1.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/baskets-mode-e0vsbsl1-femme-versace-jeans-e0vsbsl1.jpg
 ---
 • Languette en mesh réspirant 
 

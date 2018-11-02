@@ -15,6 +15,8 @@ taille:
   - '44'
   - '45'
   - '46'
-image: /img/uploads/harper-melder.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/harper-melder.jpg
 ---
 Chaussures à mémoire de forme montantes en Cuir, semelle en Caoutchouc.

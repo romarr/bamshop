@@ -15,7 +15,8 @@ taille:
   - '34'
 manche: Longues
 sexe: Homme
-image: >-
-  /img/uploads/redskins-cruz-shister-grey-used-gris-pas-cher-jeans-homme-mhkydwg_3.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/redskins-cruz-shister-grey-used-gris-pas-cher-jeans-homme-mhkydwg_3.jpg
 ---
 Jeans slim coton, élasthanne

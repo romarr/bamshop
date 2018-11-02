@@ -17,7 +17,9 @@ taille:
   - '40'
   - '41'
 sexe: Femme
-image: /img/uploads/skechers-bleu.jpg
+image:
+  - alt: 'Bonnet noir Redskins'
+    photo: /img/uploads/skechers-bleu.jpg
 poids: '1200'
 ---
 Sneaker sportive avec un dessus en maille unique et synthétique, en plus de détails dans le gradient. Construction: Tige en mesh doux, tissés de haute technologie Maille unique avec panneaux ventilés et de stabilisation
