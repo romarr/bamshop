@@ -8,7 +8,6 @@ matiere:
   - Synthétique
 couleur:
   - Noir
-sexe: Homme
 taille:
   - '40'
   - '41'
@@ -18,8 +17,14 @@ taille:
   - '44'
   - '45'
   - '46'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/52322_bkw_f.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers5a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers5b.jpg
+  - alt: Skechers derriere
+    photo: /img/uploads/skechers5c.jpg
+poids: '1500'
 ---
 Chaussures à mémoire de forme
