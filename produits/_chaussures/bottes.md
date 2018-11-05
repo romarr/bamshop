@@ -1,7 +1,7 @@
 ---
 title: 'Bottes '
 sku: '221'
-price: '74'
+price: '74.90'
 desc: Bottes
 marque: Redskins
 matiere:
@@ -16,7 +16,10 @@ taille:
   - '40'
 sexe: Femme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/big_boots-bottes-chaussures-redskins-26-file-5b8ea3902725c.jpg
+  - alt: Bottes côté
+    photo: /img/uploads/skechers15a.jpg
+  - alt: Bottes côté 2
+    photo: /img/uploads/skechers15b.jpg
+poids: '1500'
 ---
 Semelle intérieure en similicuir et semelle extérieure en élastomère.
