@@ -16,8 +16,11 @@ taille:
   - '39'
 sexe: Femme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/baskets-mode-e0vsbsl1-femme-versace-jeans-e0vsbsl1.jpg
+  - alt: Versace jeans femme profil
+    photo: /img/uploads/versace6a.jpg
+  - alt: Versace jeans femme profil 2
+    photo: /img/uploads/versace6b.jpg
+poids: '1500'
 ---
 • Languette en mesh réspirant 
 
