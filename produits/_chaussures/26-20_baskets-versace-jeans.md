@@ -15,7 +15,12 @@ taille:
   - '39'
 sexe: Femme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/43105937_682738342111108_1011093554119835648_n.jpg
+  - alt: Versace femme profil
+    photo: /img/uploads/versace7a.jpg
+  - alt: Versace profil 2
+    photo: /img/uploads/versace7b.jpg
+  - alt: Face
+    photo: /img/uploads/versace7c.jpg
+poids: '1100'
 ---
 Baskets versace doré
