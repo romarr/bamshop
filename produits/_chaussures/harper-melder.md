@@ -6,17 +6,20 @@ desc: Chaussures à memoire de forme
 marque: Skechers
 matiere:
   - Cuir
-sexe: Homme
 couleur:
-  - Noir
+  - Cognac
 taille:
   - '42'
   - '43'
   - '44'
   - '45'
   - '46'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/harper-melder.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers11a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers11b.jpg
+poids: '1500'
 ---
 Chaussures à mémoire de forme montantes en Cuir, semelle en Caoutchouc.
