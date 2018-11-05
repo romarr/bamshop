@@ -21,7 +21,10 @@ taille:
   - '46'
 sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/téléchargement-1-.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers9b.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers9a.jpg
+poids: '1500'
 ---
 Chaussures montantes, plates, extérieur cuir, semelle synthétique, doublure tissus
