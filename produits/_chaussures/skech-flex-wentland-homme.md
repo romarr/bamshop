@@ -1,12 +1,11 @@
 ---
 title: Skech flex wentland
 sku: '216'
-price: '69.90'
+price: '59.90'
 desc: 'Sportive '
 marque: Skechers
 matiere:
   - Tissus
-sexe: Homme
 couleur:
   - Noir
 taille:
@@ -17,9 +16,13 @@ taille:
   - '44'
   - '45'
   - '46'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/skech804113_41823_jb.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers17a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers17b.jpg
+poids: '1000'
 ---
 formateurs Wentland
 
