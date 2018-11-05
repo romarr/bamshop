@@ -18,7 +18,10 @@ taille:
   - '44'
 sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/wasari.jpg
+  - alt: Redskins homme profil
+    photo: /img/uploads/redskins4a.jpg
+  - alt: Redskins homme profil 2
+    photo: /img/uploads/redskins4b.jpg
+poids: '1000'
 ---
 Chaussures de ville
