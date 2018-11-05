@@ -4,7 +4,6 @@ sku: '210'
 price: '50.90'
 desc: Baskets à mémoire de forme
 marque: Skechers
-sexe: Homme
 matiere:
   - Tissus
 couleur:
@@ -17,8 +16,12 @@ taille:
   - '43'
   - '44'
   - '45'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/overhaul-debbir.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers13a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers13b.jpg
+poids: '1500'
 ---
 Baskets à mémoire de forme, très légère et confortable.
