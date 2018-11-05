@@ -9,14 +9,17 @@ marque: Redskins
 matiere:
   - Cuir
   - Textile
-sexe: Homme
 couleur:
   - Cognac
   - Marine
 taille:
   - '40[]'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/chaussures-cournol-marron-homme-redskins.jpg
+  - alt: Redskins homme profil
+    photo: /img/uploads/redskins5a.jpg
+  - alt: Redskins homme profil 2
+    photo: /img/uploads/redskins5b.jpg
+poids: '1500'
 ---
 La tige bicolore COURNOL est la pièce essentielle du vestiaire masculin de cette saison. Composition: Tige en cuir, doublure en cuir et toile et semelle en élastomère.
