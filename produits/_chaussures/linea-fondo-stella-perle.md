@@ -14,8 +14,11 @@ taille:
   - '39'
 sexe: Femme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/versace-jeans_154466_e0vsbsa1_70823-899_20180918t152606_01.jpg
+  - alt: Versace jeans femme profil
+    photo: /img/uploads/versace8a.jpg
+  - alt: Versace jeans femme profil 2
+    photo: /img/uploads/versace8b.jpg
+poids: '1100'
 ---
 • Empiècements en cuir suédé véritable
 
