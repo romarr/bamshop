@@ -8,7 +8,6 @@ matiere:
   - Cuir
 couleur:
   - Noir
-sexe: Homme
 taille:
   - '40'
   - '41'
@@ -16,8 +15,12 @@ taille:
   - '42.5'
   - '43'
   - '44'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/volden.jpg
+  - alt: 'Skechers côté '
+    photo: /img/uploads/skechers10a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers10b.jpg
+poids: '1500'
 ---
 Chaussures Plates à mémoire de forme en cuir
