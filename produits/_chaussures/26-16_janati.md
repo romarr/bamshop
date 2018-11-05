@@ -19,7 +19,10 @@ taille:
   - '45'
 sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/janati.jpg
+  - alt: Redskins homme profil
+    photo: /img/uploads/redskins2a.jpg
+  - alt: Redskins homme profil 2
+    photo: /img/uploads/redskins2b.jpg
+poids: '1000'
 ---
 Chaussures de ville discret motif camouflage à bout rond, double protection contre le froid
