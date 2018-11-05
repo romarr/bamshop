@@ -4,7 +4,6 @@ sku: '211'
 price: '54.90'
 desc: Chaussures à mémoire de forme
 marque: Skechers
-sexe: Homme
 matiere:
   - Tissus
 couleur:
@@ -16,8 +15,14 @@ taille:
   - '44'
   - '45'
   - '46'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/51196_gycc.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers2a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers2b.jpg
+  - alt: Skechers face
+    photo: /img/uploads/skechers2c.jpg
+poids: '1500'
 ---
 Chaussures à mémoire de forme à lacets
