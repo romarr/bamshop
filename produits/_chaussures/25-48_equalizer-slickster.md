@@ -19,7 +19,12 @@ taille:
   - '46'
 sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/52745.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers4c.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers4b.jpg
+  - alt: Skechers face
+    photo: /img/uploads/skechers4d.jpg
+poids: '1100'
 ---
 Equalizer Slickster
