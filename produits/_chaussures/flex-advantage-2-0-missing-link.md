@@ -6,7 +6,6 @@ desc: Baskets à mémoire de forme
 marque: Skechers
 matiere:
   - Tissus
-sexe: Homme
 couleur:
   - Blanc
 taille:
@@ -16,8 +15,12 @@ taille:
   - '44'
   - '45'
   - '46'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/missing-link.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers7a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers7b.jpg
+poids: '1500'
 ---
 Chaussures de sport à mémoire de forme
