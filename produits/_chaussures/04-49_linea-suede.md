@@ -16,9 +16,9 @@ taille:
 sexe: Homme
 image:
   - alt: Basket profil
-    photo: /img/uploads/img_20181103_140443.jpg
+    photo: /img/uploads/versace3a.jpg
   - alt: Patch Versace Jeans
-    photo: /img/uploads/img_20181103_140447.jpg
+    photo: /img/uploads/versace3c.jpg
 poids: '1500'
 ---
 Baskets Versace Jeans
