@@ -8,7 +8,6 @@ matiere:
   - Cuir
 couleur:
   - Noir
-  - Blanc
 taille:
   - '40'
   - '41'
@@ -20,8 +19,11 @@ taille:
   - '46'
 sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/synergy.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers6a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers6.jpg
+poids: '1500'
 ---
 Chaussures à mémoire de forme, 
 
