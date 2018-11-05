@@ -14,7 +14,9 @@ taille:
 sexe: Homme
 image:
   - alt: Profil avec patch d'authenticité Versace Jeans
-    photo: /img/uploads/chevro.jpg
+    photo: /img/uploads/versace2a.jpg
+  - alt: Profil
+    photo: /img/uploads/versace2b.jpg
 poids: '1500'
 ---
 Baskets homme Versace Jeans
