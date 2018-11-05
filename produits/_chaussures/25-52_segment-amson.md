@@ -17,7 +17,10 @@ taille:
   - '46'
 sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/segment-amson.jpg
+  - alt: Skechers côte
+    photo: /img/uploads/skechers8a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers8b.jpg
+poids: '1500'
 ---
 cuir imperméable, un col matelassé, une semelle crantée
