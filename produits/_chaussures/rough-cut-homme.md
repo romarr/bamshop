@@ -8,7 +8,6 @@ matiere:
   - Tissus
 couleur:
   - Noir
-sexe: Homme
 taille:
   - '40'
   - '41'
@@ -18,8 +17,12 @@ taille:
   - '44'
   - '45'
   - '46'
+sexe: Homme
 image:
-  - alt: 'Bonnet noir Redskins'
-    photo: /img/uploads/52822_bbk.jpg
+  - alt: Skechers côté
+    photo: /img/uploads/skechers12a.jpg
+  - alt: Skechers côté 2
+    photo: /img/uploads/skechers12b.jpg
+poids: '1500'
 ---
 Baskets légère à mémoire de forme
